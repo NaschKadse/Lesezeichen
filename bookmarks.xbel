@@ -1,0 +1,2262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :752: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://time.is/de/" id="1">
+  <title>Time.is</title>
+</bookmark>
+<bookmark href="https://www.twitch.tv/" id="2">
+  <title>Twitch</title>
+</bookmark>
+<bookmark href="https://web.whatsapp.com/" id="3">
+  <title>WhatsApp</title>
+</bookmark>
+<folder id="4">
+  <title>Network</title>
+  <bookmark href="http://fritz.box/" id="13">
+    <title>FRITZ!Box</title>
+  </bookmark>
+  <bookmark href="http://192.168.178.220/login" id="14">
+    <title>UNRAID/Login</title>
+  </bookmark>
+  <bookmark href="http://192.168.178.2/login.html" id="15">
+    <title>ADGUARD</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>Fortbildung</title>
+  <bookmark href="https://www.udemy.com/" id="16">
+    <title>Udemy</title>
+  </bookmark>
+  <bookmark href="https://github.com/" id="17">
+    <title>GitHub</title>
+  </bookmark>
+  <bookmark href="https://academy.zenva.com/purchased-courses/" id="18">
+    <title>Purchased Courses – Zenva Academy</title>
+  </bookmark>
+  <bookmark href="https://replit.com/@klein-dominik/PythonTurtle" id="19">
+    <title>PythonTurtle - Replit</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/search?client=firefox-b-d&amp;q=google+color+picker" id="20">
+    <title>google color picker - Google Suche</title>
+  </bookmark>
+  <bookmark href="https://www.coursera.org/courses" id="21">
+    <title>Kurse</title>
+  </bookmark>
+</folder>
+<folder id="6">
+  <title>AIs</title>
+  <bookmark href="https://app.suno.ai/create/" id="22">
+    <title>Suno</title>
+  </bookmark>
+  <bookmark href="https://chat.openai.com/chat" id="23">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/chat/a4ac1b8f-6e81-4d6e-93cb-bd5fe93f19d6" id="24">
+    <title>German Language Assistance - Claude</title>
+  </bookmark>
+</folder>
+<folder id="7">
+  <title>Finanzen</title>
+  <bookmark href="https://www.finanzfluss.de/empfehlungen/" id="25">
+    <title>Unsere Empfehlungen - Finanzfluss</title>
+  </bookmark>
+  <bookmark href="https://banking.dkb.de/login" id="26">
+    <title>DKB Banking</title>
+  </bookmark>
+  <bookmark href="https://portal.ebase.com/(GT83nyUiC8cmuK35trWzuqTSdxJscbpl7Ls2aQvq_4wZ2WjNJ24kx4SDW-b4dyGPQGQRiLNeyXSleNsEycztq4XwTQ6zn5UXVLRNUbLEUQJFpqZGfMM0njobD-7nDxGeTGSr8tL7j-ziIL_cGsLjtXEtpgtZx6k!)/finvesto/EOY/EL/39/#/eo/home" id="27">
+    <title>finvesto</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>PC Stuff</title>
+  <bookmark href="http://192.168.178.220/Main" id="28">
+    <title>UNRAID/Main</title>
+  </bookmark>
+  <bookmark href="https://www.nvidia.de/Download/Find.aspx?lang=de" id="29">
+    <title>NVIDIA Treiber-Downloads – Erweiterte Suche</title>
+  </bookmark>
+  <bookmark href="https://www.logicalincrements.com/" id="30">
+    <title>Logical Increments</title>
+  </bookmark>
+  <bookmark href="https://www.computerbase.de/2019-07/raisonjohn-vergleich-uebersicht-am4-mainboards/" id="31">
+    <title>AMD Sockel AM4: Riesiges Spreadsheet listet Details von 250 Mainboards - ComputerBase</title>
+  </bookmark>
+  <bookmark href="https://support.xbox.com/de-DE/contact-us/emerald?ocid=OO_Core_NEU_GetHelp_DG_GetHelp_Solutions" id="32">
+    <title>So erreichen Sie uns | Xbox Support</title>
+  </bookmark>
+  <folder id="33">
+    <title>Laptop</title>
+    <bookmark href="https://www.mediamarkt.de/de/product/_acer-aspire-5-a517-52g-79z5-2697936.html" id="71">
+      <title>ACER Aspire 5 (A517-52G-79Z5), Notebook mit 17,3 Zoll Display, Core™ i7 Prozessor, 16 GB RAM, 1 TB SSD, GeForce MX350, Silber mit , RAM und kaufen | MediaMarkt</title>
+    </bookmark>
+    <bookmark href="https://www.mediamarkt.de/de/product/_captiva-i57-947-2698603.html" id="72">
+      <title>CAPTIVA I57-947, Gaming Notebook mit 17,3 Zoll Display, Core i5 Prozessor, 16 GB RAM, 1 TB SSD, GTX 1650, Schwarz/Silber mit , RAM und kaufen | MediaMarkt</title>
+    </bookmark>
+    <bookmark href="https://www.mediamarkt.de/de/product/_medion-erazer%C2%AE-p17613-md61685-2605218.html" id="73">
+      <title>MEDION ERAZER® P17613 (MD61685), Gaming Notebook mit 17,3 Zoll Display, Core™ i7 Prozessor, 16 GB RAM, 1 TB SSD, GeForce GTX1650, Schwarz mit , RAM und kaufen | MediaMarkt</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.de/Lexmark-MC3224DWE-Farblaser-Multifunktionsger%C3%A4t-beidseitiger-cm-Touchscreen/dp/B07VH3W17X/ref=pd_sbs_1?pd_rd_w=m0fR3&amp;pf_rd_p=d35ace4d-b0b0-40de-9e29-e57de6c266c4&amp;pf_rd_r=T8WQMB1V467P2PAXP7DT&amp;pd_rd_r=ab8c8b42-4d62-40fe-a159-cdb4ada8657e&amp;pd_rd_wg=i5Zka&amp;pd_rd_i=B07VH3W17X&amp;psc=1" id="74">
+      <title>Lexmark MC3224DWE 3-in-1 Farblaser-Multifunktionsgerät: Amazon.de: Computer &amp; Zubehör</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.de/Lexmark-MC3326ADWE-Farblaser-Multifunktionsger%C3%A4t-beidseitiger-cm-Touchscreen/dp/B07VH2KS3Y/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;dchild=1&amp;keywords=Lexmark+MC3426adwe&amp;qid=1614430603&amp;sr=8-2" id="75">
+      <title>Lexmark MC3326ADWE 4-in-1 Farblaser-Multifunktionsgerät: Amazon.de: Computer &amp; Zubehör</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/13282825/adding-binary-numbers-in-c" id="76">
+      <title>Adding binary numbers in C++ - Stack Overflow</title>
+    </bookmark>
+  </folder>
+  <folder id="34">
+    <title>Hardware</title>
+    <folder id="77">
+      <title>Monitore 360Hz</title>
+      <bookmark href="https://de.msi.com/Monitor/Oculux-NXG253R" id="127">
+        <title>Oculux NXG253RDE</title>
+      </bookmark>
+      <bookmark href="https://www.dell.com/de-at/shop/alienware-25-gamingmonitor-aw2523hf/apd/210-bfim/monitore-und-monitorzubeh%C3%B6r" id="128">
+        <title>Alienware 63,50 cm (25&quot;)-Gamingmonitor (AW2523HF) | Dell Österreich</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://www.computerbase.de/thema/prozessor/rangliste/" id="35">
+    <title>CPU-Benchmark: Prozessor-Vergleich - ComputerBase</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=PTErmHTw-es&amp;ab_channel=ReisendEren" id="36">
+    <title>Windows Server 2022 auf WMware / Active Directory - Domain Controller installieren - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=GERlhgCcoBc&amp;ab_channel=BredzPro" id="37">
+    <title>How to Install and fully Set up ADB (Android Debug Bridge) - Step-by-step Guide - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=z-21rODgpSE&amp;ab_channel=Mobilenckreader" id="122">
+    <title>HOW TO INSTALL TWRP RECOVERY ON SAMSUNG S9 PLUS G965 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=7iMXtkmu92Q&amp;ab_channel=MikeTheTechSavvy" id="123">
+    <title>Rooting and TWRP Tutorial - Samsung Galaxy S9 &amp; S9+ - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=D51xCQtPFw8&amp;ab_channel=WorldofTech" id="124">
+    <title>How to Boot Into Android Recovery Menu Mode on Samsung Galaxy A50s, A50, A40, A30, A20, A10, etc - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=UxYqnSx5htY&amp;ab_channel=ExplainingAndroid" id="125">
+    <title>How to Temporarily Boot a Custom Recovery with Fastboot? - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=x5Rt93jshC8&amp;ab_channel=AndroidInfosec" id="126">
+    <title>How to unlock PIN protected Android device using ADB and HID method | Brute force | Rubber Ducky - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=OoMctGTSQ-A&amp;ab_channel=MidnightStudioz" id="129">
+    <title>HID-Keyboard Returned 126/127? Here is the solution!! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://cyberhimanshukishor.data.blog/2022/01/12/brute-force-attack-cracking-phone-pin/" id="130">
+    <title>Brute force attack cracking phone pin. – Cyber tech zone</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Mek9DMGy8os&amp;ab_channel=AndroidInfosec" id="131">
+    <title>How to setup Android as Rubber Ducky without NetHunter - part 2 | Tutorial | HID | BadUSB | Termux - YouTube</title>
+  </bookmark>
+  <bookmark href="https://forum.xda-developers.com/t/nethunter-hid-interface-not-found-fixed.4287317/" id="156">
+    <title>Nethunter HID interface not found [Fixed] | XDA Forums</title>
+  </bookmark>
+  <bookmark href="https://www.droidwiki.org/wiki/Android_Debug_Bridge" id="157">
+    <title>Android Debug Bridge (ADB) – Android Wiki</title>
+  </bookmark>
+  <bookmark href="https://developer.android.com/tools/releases/platform-tools" id="158">
+    <title>SDK Platform Tools release notes  |  Android Studio  |  Android Developers</title>
+  </bookmark>
+  <bookmark href="https://www.droidwiki.org/wiki/USB-Debugging#Aktivierung_.C3.BCber_das_Recovery" id="159">
+    <title>USB-Debugging – Android Wiki</title>
+  </bookmark>
+  <bookmark href="https://www.caseking.de/blog/airflow" id="160">
+    <title>So erreichst du den besten Airflow für dein Gehäuse</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=hKJVNaCIs64" id="161">
+    <title>(60) Lohnt sich ein Walking Pad wirklich? | Ehrlicher Testbericht nach 3 Jahren Nutzung | A1 Pro Laufband - YouTube</title>
+  </bookmark>
+  <bookmark href="https://answers.microsoft.com/de-de/windows/forum/all/h%C3%A4ufige-anmeldung-am-defender/56a51127-557c-43f1-92c3-b373d98c926f" id="162">
+    <title>Häufige Anmeldung am Defender - Microsoft Community</title>
+  </bookmark>
+  <bookmark href="https://www.epilogue.co/product/gb-operator" id="163">
+    <title>Play and manage Game Boy cartridges on your PC | GB Operator</title>
+  </bookmark>
+  <bookmark href="http://192.168.178.199/#/ShortcutsManagement" id="180">
+    <title>Lexmark MC3224adwe</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>Privat Stuff</title>
+  <bookmark href="https://shapingnewtomorrow.de/?utm_campaign=Twitch_promotion_EA&amp;utm_content=&amp;utm_medium=Maxim&amp;utm_source=Twitch&amp;utm_term=" id="38">
+    <title>SHAPING NEW TOMORROW | Offizieller DE Shop</title>
+  </bookmark>
+  <bookmark href="https://web.arbeitsagentur.de/profil/profil-ui/pd/" id="39">
+    <title>Profil - Bundesagentur für Arbeit</title>
+  </bookmark>
+  <bookmark href="https://steuerjahr2020.smartsteuer.de/app#/case/6792575/interview/4758/-1/1/-1/false/true" id="40">
+    <title>smartsteuer Online-Steuererklärung</title>
+  </bookmark>
+  <bookmark href="https://kreditkarten-banking.lbb.de/Amazon/cas/dispatch.do?bt_PRELON=do&amp;ref=1200_AMAZON&amp;service=COS" id="41">
+    <title>Amazon.de: Kreditkarten-Banking</title>
+  </bookmark>
+  <bookmark href="https://amazon.lbb.de/security/login" id="42">
+    <title>Amazon - Kreditkartenbanking</title>
+  </bookmark>
+  <bookmark href="https://kaffeebohnentest.com/welche-bohne-fuer-welchen-kaffee/" id="43">
+    <title>Welche Bohne für welchen Kaffee? • kaffeebohnentest.com</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=KROcu3K7Ohw&amp;t=0s" id="44">
+    <title>Gratis BITCOIN Update! Wurde ich betrogen? - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=gX2vfJtAwBM" id="45">
+    <title>Tutorial Voicemeter Potato inklusive Virtual Audio Cable und Streaming Software 2020 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.cross-heimtrainer.de/crosstrainer-test-testsieger/" id="46">
+    <title>Crosstrainer Test &amp; Ellipsentrainer Test 2020: Die TOP 3</title>
+  </bookmark>
+  <bookmark href="https://www.cross-heimtrainer.de/sportstech-cx2-crosstrainer-testbericht/" id="47">
+    <title>» Sportstech CX2 Crosstrainer im Test</title>
+  </bookmark>
+  <bookmark href="https://fitzuhause.net/crosstrainer-sportstech-cx2/" id="132">
+    <title>Sportstech Crosstrainer CX2 im Test - persönlich getestet!</title>
+  </bookmark>
+  <bookmark href="https://www.studocu.com/de/document/karlsruher-institut-fur-technologie/grundlagen-der-wahrscheinlichkeitstheorie-und-statistik-fur-studierende-der-informatik/ubungen/ubungsblatt-2-mit-losung/7250390/view" id="133">
+    <title>Übungsblatt 2 mit Lösung - KIT - StuDocu</title>
+  </bookmark>
+  <bookmark href="http://178.238.227.46:3002/explorer/" id="134">
+    <title>LoopBack4 API Explorer</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=OMhMnj7SBRQ" id="135">
+    <title>How To Install Node.js on Ubuntu 20.04 LTS - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.com-magazin.de/tipps-tricks/powershell/windows-10-verweigert-ausfuehrung-powershell-skript-2546684.html" id="136">
+    <title>Windows 10 verweigert Ausführung von PowerShell-Skript - com! professional</title>
+  </bookmark>
+  <bookmark href="https://github.com/strongloop/loopback-connector-mongodb/blob/master/CHANGES.md" id="137">
+    <title>loopback-connector-mongodb/CHANGES.md at master · strongloop/loopback-connector-mongodb</title>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:3000/explorer/" id="138">
+    <title>LoopBack API Explorer Local</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=tgFAcsCu7Es" id="139">
+    <title>Qt Tutorial: Unit 15, QLineEdit, Input-Masks and Validators - YouTube</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/questions/14910136/how-can-i-enable-disable-qtablewidgets-horizontal-vertical-header" id="140">
+    <title>python - How can I enable / disable QTableWidget&apos;s horizontal / vertical header? - Stack Overflow</title>
+  </bookmark>
+  <bookmark href="https://www.qtcentre.org/threads/22526-Disable-or-lock-a-QTableWidget" id="141">
+    <title>Disable or lock a QTableWidget</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/questions/46416745/how-to-restrict-the-content-of-qinputdialoggettext" id="164">
+    <title>c++ - How to restrict the content of QInputDialog::getText - Stack Overflow</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=hCXAgB6y8eA" id="165">
+    <title>How to Create Executable &amp; Installer (.Exe) File for QT Project - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=mopFAsuVs9U" id="166">
+    <title>C++ Qt 132 - Windows Application Icon and UAC Admin Rights - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=IbUflaeJcU8" id="167">
+    <title>Inside Wireless: QAM modulation - YouTube</title>
+  </bookmark>
+  <bookmark href="http://rfmw.em.keysight.com/wireless/helpfiles/89600B/WebHelp/Subsystems/wlan-ofdm/content/ofdm_basicprinciplesoverview.htm" id="168">
+    <title>Concepts of Orthogonal Frequency Division Multiplexing (OFDM) and 802.11 WLAN</title>
+  </bookmark>
+  <bookmark href="https://www.extremenetworks.com/extreme-networks-blog/ofdm-and-ofdma-subcarriers-what-are-the-differences/" id="169">
+    <title>OFDM and OFDMA Subcarriers - What Are the Differences?</title>
+  </bookmark>
+  <bookmark href="https://www.5gtechnologyworld.com/the-basics-of-5gs-modulation-ofdm/" id="170">
+    <title>The basics of 5G’s modulation, OFDM - 5G Technology World</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=lyxJQWUymV4" id="171">
+    <title>Web Services Beginner Tutorial 5 - What are REST Web Services (Part-1) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.it-talents.de/blog/it-talents/was-ist-rest" id="172">
+    <title>Was ist REST (Representational State Transfer)? | IT-Talents</title>
+  </bookmark>
+  <bookmark href="https://github.com/gnilkreb/Fowler/tree/c0e1c7a21a5335d7e475c2c795ed77deec37b776" id="173">
+    <title>gnilkreb/Fowler at c0e1c7a21a5335d7e475c2c795ed77deec37b776</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=ylGC4KSA9MM" id="181">
+    <title>Voicemeeter Potato für Streamer und YouTuber: Grundlagen Tutorial für Stream Audio (deutsch/german) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@AviGoom/how-to-import-a-csv-file-into-a-mysql-database-ef8860878a68" id="182">
+    <title>How to import a CSV file into a MySQL database? | by Miguel Gomez | Medium</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/questions/39668731/what-typescript-version-is-visual-studio-code-using-how-to-update-it" id="183">
+    <title>What TypeScript version is Visual Studio Code using? How to update it? - Stack Overflow</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=wzbf9ldvBjM" id="184">
+    <title>OpenSSL Step By Step Tutorial | How to Generate Keys, Certificates &amp; CSR Using OpenSSL - YouTube</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/questions/62086344/add-request-body-schema-in-loopback4" id="185">
+    <title>routes - Add Request body Schema in loopback4 - Stack Overflow</title>
+  </bookmark>
+  <bookmark href="https://github.com/strongloop/loopback4-example-shopping" id="186">
+    <title>strongloop/loopback4-example-shopping: LoopBack 4 Example: Online Shopping APIs</title>
+  </bookmark>
+  <bookmark href="https://www.sleeveyourgames.com/" id="187">
+    <title>Find Card Sleeves for your Board Games | SleeveYourGames.com - sleeveyourgames</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=KLe2lCEy-Xw" id="188">
+    <title>Was ist eine API? - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=lsMQRaeKNDk" id="189">
+    <title>What is a REST API? - YouTube</title>
+  </bookmark>
+  <bookmark href="https://strongloop.com/strongblog/express-to-loopback/" id="190">
+    <title>StrongLoop - LoopBack - Taking Express to the Next Level</title>
+  </bookmark>
+  <bookmark href="https://loopback.io/doc/en/lb4/JWT-authentication-extension.html" id="201">
+    <title>JWT Authentication Extension | LoopBack Documentation</title>
+  </bookmark>
+  <bookmark href="https://my.visualstudio.com/Benefits?mkt=de-de" id="202">
+    <title>Home - Visual Studio Subscriptions Portal</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/questions/65354370/api-logout-user-loopback-4" id="203">
+    <title>typescript - api logout user loopback 4 - Stack Overflow</title>
+  </bookmark>
+  <bookmark href="https://github.com/strongloop/loopback-next/issues/2242" id="204">
+    <title>Automatically refresh upon changes (build &amp; watch with nodemon) · Issue #2242 · strongloop/loopback-next</title>
+  </bookmark>
+  <bookmark href="https://www.geogebra.org/m/bhr4r648#material/yeUX8GzT" id="205">
+    <title>Stammfunktionstrainer – GeoGebra</title>
+  </bookmark>
+  <bookmark href="https://www.heise.de/ct/artikel/Das-Linux-Dateisystem-Ext4-221262.html?seite=all" id="206">
+    <title>Das Linux-Dateisystem Ext4 | c&apos;t Magazin</title>
+  </bookmark>
+  <bookmark href="https://www.inf.tu-dresden.de/content/institutes/sya/dud/lectures/2014wintersemester/IfVI/uebung7_loesung.pdf" id="207">
+    <title>uebung7_loesung.pdf</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=_21NuS0xjfc" id="208">
+    <title>Everything You Need to Know About Drifting in Mario Kart 8 Deluxe - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.instant-gaming.com/de/bezahlung-4931-nintendo-eshop-karte-50e/" id="209">
+    <title>Tätigen Sie Ihren Zahlungsabschluss</title>
+  </bookmark>
+  <bookmark href="https://www.fantasywelt.de/" id="210">
+    <title>FantasyWelt.de | Tabletopshop | Brettspielshop | Rollenspielshop</title>
+  </bookmark>
+  <bookmark href="https://www.rewe.de/rezepte/protein-beeren-fruehstueck/" id="274">
+    <title>Protein-Beeren-Frühstück Rezept - REWE.de</title>
+  </bookmark>
+  <bookmark href="https://www.hoeffner.de/katt" id="275">
+    <title>Katt - Modernes Design in drei Farbvarianten bei Möbel Höffner</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.de/MeacoFan-1056-Ventilator-Schlafzimmer-Fernbedienung/dp/B085D5F2S5/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=3AGMPLECWWUTR&amp;keywords=Meaco%2B1056%2B-%2BVentilator&amp;qid=1656758437&amp;s=diy&amp;sprefix=meaco%2B1056%2B-%2Bventilator%2Cdiy%2C79&amp;sr=1-3&amp;th=1" id="276">
+    <title>Meaco, Meacofan 1056 Leiser Ventilator - DC Kühlender Ventilator für Schlafzimmer, Schreibtische und Büros, lautloser Betrieb, Schwenkfunktion und Fernbedienung : Amazon.de: Baumarkt</title>
+  </bookmark>
+  <bookmark href="https://www.arztsuche-bw.de/index.php?suchen=0&amp;id_z_arzt_praxis=0&amp;id_fachgruppe=492&amp;id_zusatzbezeichnung=0&amp;id_genehmigung=0&amp;id_dmp=0&amp;id_zusatzvertraege=0&amp;id_sprache=0&amp;vorname=&amp;nachname=ohne+Titel+%28Dr.%29&amp;arztgruppe=facharzt&amp;geschlecht=alle&amp;wochentag=alle&amp;zeiten=alle&amp;fa_name=&amp;plz=69469&amp;ort=&amp;strasse=&amp;schluesselnr=&amp;schluesseltyp=lanr7&amp;landkreis=&amp;id_leistungsort_art=0&amp;id_praxis_zusatz=0&amp;sorting=name&amp;direction=ASC" id="277">
+    <title>Arztsuche - Kassenärztliche Vereinigung Baden-Württemberg</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.de/dp/B09XZP53LG/?tag=glv-21&amp;ascsubtag=5b1eee9f-2f4b-4c69-ad81-395b4ecab0f1&amp;th=1&amp;psc=1&amp;linkCode=osi" id="278">
+    <title>WIWACAM Mini Kamera 4K HD WLAN Live Übertragung Handy App, Mini Überwachungskamera Innen, WiFi Überwachung IP Kamera Babyphone Haustierkamera, mit Bewegungsmelder, Nachtsicht, Akku, Alarmzone,MW1: Amazon.de: Baumarkt</title>
+  </bookmark>
+  <bookmark href="https://ping.canbeuseful.com/de#ping" id="279">
+    <title>Ping, ein Tool um die Stabilität Ihrer Verbindung zu testen</title>
+  </bookmark>
+  <bookmark href="https://www.hemdenbox.de/hemden-groesse-messen-und-ermitteln" id="280">
+    <title>Hemden Größe ermitteln in zwei Schritten | HemdenBox.de</title>
+  </bookmark>
+  <bookmark href="https://shop.coffeeness.de/produkt/vollautomaten-kaffee/" id="281">
+    <title>Coffeeness Kaffee für Vollautomaten – Klassik</title>
+  </bookmark>
+  <bookmark href="https://account.dentolo.de/" id="282">
+    <title>Kundenkonto</title>
+  </bookmark>
+  <bookmark href="https://www.ias-instandhaltungssoftware.de/2022/10/09/systemadministrator-m-w-d/" id="283">
+    <title>Systemadministrator (m/w/d) I IAS MEXIS - Intelligente Instandhaltung</title>
+  </bookmark>
+  <bookmark href="https://www.n-tec.eu/lexikon/storage/" id="293">
+    <title>Was ist Storage? - Definition, Arten &amp; Technologien | N-TEC</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=YwZ3wbUhUQw&amp;ab_channel=Finanzfluss" id="294">
+    <title>Vermögenswirksame Leistungen einfach erklärt: VL richtig anlegen! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.notebooksbilliger.de/hp+17+cp2147ng+793517" id="295">
+    <title>HP 17-cp2147ng 17,3&quot; FHD IPS, Ryzen 5 7520U, 16GB RAM, 512GB SSD, FreeDOS bei notebooksbilliger.de</title>
+  </bookmark>
+  <bookmark href="https://www.notebooksbilliger.de/hp+17+cp2147ng+793517#" id="296">
+    <title>HP 17-cp2147ng 17,3&quot; FHD IPS, Ryzen 5 7520U, 16GB RAM, 512GB SSD, FreeDOS bei notebooksbilliger.de</title>
+  </bookmark>
+  <bookmark href="https://www.notebooksbilliger.de/hp+17+cn2157ng+779141" id="297">
+    <title>HP 17-cn2157ng 17,3&quot; FHD IPS, Intel Core i5-1235U, 16GB RAM, 512GB SSD, Windows 11 bei notebooksbilliger.de</title>
+  </bookmark>
+  <bookmark href="https://www.notebooksbilliger.de/asus+vivobook+16+m1605ya+mb055w+800013" id="298">
+    <title>ASUS Vivobook 16 M1605YA-MB055W - 16&quot; WUXGA IPS, AMD Ryzen R5-7530U, 16GB RAM, 512GB SSD, Windows 11 bei notebooksbilliger.de</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.de/Lenovo-Laptop-Display-Graphics-Windows/dp/B0CF6122QM" id="299">
+    <title>Lenovo Laptop | 17,3 Zoll FHD Display | Intel U300 5 x 4.40 GHz | 16 GB DDR4 RAM | 1000 GB SSD | Intel UHD Graphics | Windows 11 Pro: Amazon.de: Computer &amp; Zubehör</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=hQFHlHA5Yb0&amp;ab_channel=DoktorIsaHouse" id="300">
+    <title>Grüße an Matteo - YouTube</title>
+  </bookmark>
+  <bookmark href="https://pr0gramm.com/new/5835258" id="301">
+    <title>Absolute Serienempfehlung – pr0gramm.com – Schabernack, Unterhaltung, Gemeinschaft</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.de/gp/product/B08HN2KS84/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;psc=1" id="302">
+    <title>Grin&amp;Bear Herren Kapuzenpullover anthrazit, M, GEC022 : Amazon.de: Fashion</title>
+  </bookmark>
+  <bookmark href="https://www.flexispot.de/elektrisch-hohenverstellbares-tischgestell-e7q.html" id="305">
+    <title>Elektrisch verstellbares Tischgestell E7Q | Flexispot</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=BcQPZTwgLaw&amp;ab_channel=LarsPeterLueg" id="306">
+    <title>Darmreinigung 💦 Einlauf selber machen 💦 Ausführliche Anleitung - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=nqga2sdWCuM&amp;t=10s&amp;ab_channel=SchubfreilebenmitDennyKircheis" id="307">
+    <title>WIE KOKOSÖL DEN DARM HEILEN KANN + ANLEITUNG - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.tiobe.com/tiobe-index/" id="308">
+    <title>TIOBE Index - TIOBE</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=6Bvph4oaxa8&amp;ab_channel=SONNENSEITE" id="309">
+    <title>10 Heim-Übungen, um Bauchfett in nur einem Monat loszuwerden - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=24nhC1TMEV4&amp;ab_channel=ThePrimeTime" id="310">
+    <title>120x Faster Algorithm By Nested Loops - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.liebscher-bracht.com/schmerzlexikon/schmerzen-in-der-brust/uebungen/?itm_medium=text&amp;itm_source=lexikon-unterseite&amp;itm_campaign=dach.traf.schmerzlexikon-schmerzen-in-der-brust-uebungen-&amp;itm_content=schmerzlexikon-schmerzen-in-der-brust-organische-ursachen&amp;itm_term=kapitel-zwei" id="311">
+    <title>Verspannungen am Brustkorb: Übungen | Liebscher &amp; Bracht</title>
+  </bookmark>
+  <bookmark href="https://www.onlymyhealth.com/low-sulphur-diet-key-to-a-healthy-body-or-yet-another-fad-diet-1580963209" id="312">
+    <title>Low-Sulphur Diet: Key To A Healthy Body Or Yet Another Fad Diet? | OnlyMyHealth</title>
+  </bookmark>
+  <bookmark href="https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/ratgeber-notfallvosorge-checkliste.pdf?__blob=publicationFile&amp;v=10" id="313">
+    <title>Ratgeber für Notfallvorsorge und richtig – Meine persönliche Checkliste - ratgeber-notfallvosorge-checkliste.pdf</title>
+  </bookmark>
+  <bookmark href="https://academy.zenva.com/" id="314">
+    <title>Zenva Academy – Trusted by +1 million learners. Learn coding, game creation, AI and digital skills.</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=2qAUkwDuvns" id="340">
+    <title>(11) Apfel Schnittvarianten Nicer Dicer SoFie Haushalt Unperfekt Perfekt - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.focus.de/gesundheit/gesundleben/fitness/lange-fit-bleiben-drei-simple-uebungen-halten-sie-ab-40-besonders-fit_id_259496211.html" id="341">
+    <title>Lange fit bleiben: Drei simple Übungen halten Sie ab 40 besonders fit - FOCUS online</title>
+  </bookmark>
+  <bookmark href="https://palmberg.de/de/schreibtische" id="342">
+    <title>Schreibtisch Hersteller - PALMBERG Büroeinrichtungen + Service GmbH</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=cB5n_cWJor8&amp;t=13s" id="343">
+    <title>(13) Du WILLST einen Homeserver (glaub mir) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://yogibo.com/collections/bestsellers/products/ottoman-footrest?variant=31429616697410" id="344">
+    <title>Yogibo Ottoman - Footrest &amp; Small Seat - Yogibo®</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Gh008lVblf0" id="345">
+    <title>(1) Ergotopia ➡️ Desktopia Pro X im TEST [Höhenverstellbarer Schreibtisch | Nussbaum | 160 x 80 cm] - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Hqc007WdE1s" id="346">
+    <title>(2) MinisForum UM690 Review (Ryzen 9 6900HX) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-elektrisch-memoryschalter" id="347">
+    <title>Elektrisch höhenverstellbarer Schreibtisch Desktopia Pro X</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.de/Ergotopia%C2%AE-Desktopia-h%C3%B6henverstellbarer-ergonomischer-Speicherpl%C3%A4tze/dp/B09ZYFBT9V/ref=cm_cr_arp_d_product_top?ie=UTF8&amp;th=1" id="348">
+    <title>Ergotopia® Desktopia Pro X Elektrisch höhenverstellbarer Schreibtisch 7 Jahre Garantie Ergonomischer Stehtisch mit 9 Speicherplätzen (Schwarz, Gestell Weiß, 180 x 80 cm) : Amazon.de: Küche, Haushalt &amp; Wohnen</title>
+  </bookmark>
+  <bookmark href="https://www.kaufland.de/product/320114355/?utm_source=idealo&amp;utm_medium=cpc&amp;utm_content=de_01&amp;utm_campaign=pricecomparison&amp;utm_term=pad-1" id="349">
+    <title>Nintendo Classic Mini: Super Nintendo - Die | Kaufland.de</title>
+  </bookmark>
+  <bookmark href="https://www.elefacts.de/test-unraid__das_vielleicht_beste_nas_betriebssystem_im_test" id="368">
+    <title>Unraid - Das vielleicht beste NAS Betriebssystem im Test</title>
+  </bookmark>
+  <bookmark href="https://baeckereileoglutenfrei.de/produkt/probierpaket-laktose-und-glutenfrei#reviews" id="369">
+    <title>Probierpaket Laktose- und Glutenfrei | Bäckerei Leo Glutenfrei</title>
+  </bookmark>
+  <bookmark href="https://account.microsoft.com/family/home" id="370">
+    <title>Microsoft Family Safety</title>
+  </bookmark>
+  <bookmark href="https://www.plattenzuschnitt24.de/Polycarbonat-UV-Weiss-2150-5mm.html" id="371">
+    <title>Polycarbonat UV Weiss 2150 5mm online kaufen</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=eMiOYQd0TiY" id="372">
+    <title>(111) Klimaanlage Fensterdurchführung ❄ PERFEKTE Fensterabdichtung für jedes Klimagerät mit Abluftschlauch - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=C2I_f6xFFhI" id="373">
+    <title>(134) Mastering Kingdom Come Deliverance: The Ultimate Armor Guide! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.geo-fs.com/" id="374">
+    <title>GeoFS - Free Online Flight Simulator</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/shorts/1xGHLopzULU" id="375">
+    <title>(185) Fantasy Girl Tutorial #markstanzschule #bückeburg #tutorial #linedance - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=VixYfv0UEyE&amp;ab_channel=HackSussex" id="376">
+    <title>(14) HackSussex Coders&apos; Cup 2024 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.flexispot.de/tischplatte-200x80cm.html" id="377">
+    <title>200x80cm abgerundete Tischplatte, 2,5 cm dick | FlexiSpot</title>
+  </bookmark>
+  <bookmark href="https://www.lifespaneurope.com/de-de/collections/arbeitsplatz-laufband-unter-dem-schreibtisch" id="378">
+    <title>Shop Arbeitsplatz Laufbänder unter dem Schreibtisch | LifeSpan Europe</title>
+  </bookmark>
+  <bookmark href="https://www.coffeeness.de/melitta-caffeo-barista-ts-smart-test/" id="379">
+    <title>Der Melitta Caffeo Barista TS Smart Kaffeevollautomat Test 2024</title>
+  </bookmark>
+  <bookmark href="https://shop.coffeeness.de/checkouts/checkout-funnel/" id="380">
+    <title>Checkout Funnel</title>
+  </bookmark>
+  <bookmark href="https://www.heise.de/select/ct/2024/21/2421513030094093278" id="381">
+    <title>Dateien rundum sorglos | c&apos;t | heise magazine</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=zSrzvpnQXR4" id="382">
+    <title>(9) Gold Cap in 5 days from 0 - War Within Gold Gap Guide - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=c_aBmcqcLoE" id="383">
+    <title>(3) Schnell und einfach eigenen Cloud Speicher mit Nextcloud! - unRaid Tutorial - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=shgU_GCTDAw" id="384">
+    <title>(3) Nextcloud auf Unraid installieren - Tutorial | Easy Tec - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=vPvuqR20tO4" id="385">
+    <title>(6) Unraid Nextcloud öffentlich über das Internet verfügbar machen - Anleitung - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=iRE8r3FFQ48" id="386">
+    <title>(6) Ionos Domain kaufen und einrichten - Tutorial 2024 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=id4GcVZ5qBA&amp;t=954s" id="387">
+    <title>(7) Installing Nextcloud on Unraid 2022 pt1 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=SZF_ZvWvKMI" id="397">
+    <title>(7) Nextcloud einrichten in 19 Minuten (ohne eigenen Server) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=frCpVQC9b68" id="398">
+    <title>(1) Er bringt dir kein GOLD in World of Warcraft Fresh Classic - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=RE_ISQGhQDs" id="399">
+    <title>(3) Unraid RICHTIG installieren und einrichten! Walkthrough mit Plugins - Unraid Tutorial #002 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.carloaustria.com/katalog/artikelinfo/441/kompaktboerse---brkalbleder---weich!" id="400">
+    <title>Kompaktbörse &lt;br&gt;KALBLEDER - weich! - Carlo Shop</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=nbFRkGluq8g" id="401">
+    <title>(9) Unraid: Internetfreigabe und VPNs (MyServers, Wireguard, Tailscale, Duckdns) #005 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://aktion.vodafone.de/HappyXmas/?c=dsl&amp;h=d9c6842cc37f0a36a4983020286e95991a4f9c72f9865c3ffe56568c848dbbcf&amp;d=t7gDXku5XZ6u8FgG0xnGf6enMjKtZ2hALse5hGGMq3Vqmer%2BOLVloAeCjZjVs0Z5jIzxjaEGb8Cu9jQBmygP1G9QimrgupQLNdvhzTkvoOXx5a3n2ChpGVvG0YhZQzX5GhB6gemHULNAfAGKRhZ6%2FkvGKzaTrIn6%2B5Uo3Rt4pVpfdDr4gjd4WUhxRWsEuuFxGr0AQeZowmmotFsEPRPEhS8UXdfqwOC1bhE%2F4yU%2BnO0%3D%3AeVXbW9GwBWbwWS%2BuYaFLQQ%3D%3D" id="402">
+    <title>Vodafone Happy Xmas Adventskalender 2024</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=wrSbbiCY5cY" id="403">
+    <title>(25) Install Windows 10/11 by Using EFI Shell MSI Laptop - YouTube</title>
+  </bookmark>
+  <bookmark href="https://x.com/MeatiHS/status/1486600463126437894" id="404">
+    <title>Tom Wayland auf X: „4 easy ways to win more games 1. Mulligan Optimisation 2. Turn Structure 3. Game Plan 4. Reflection The most free coaching I could fit in 1 tweet Twitch: https://t.co/MF1ldk55ym YouTube: https://t.co/y1tY5ZrLSg Discord: https://t.co/BiV1JGdwZT Coaching: https://t.co/zpu4hKNbDp https://t.co/I0ZSrdTMRf“ / X</title>
+  </bookmark>
+  <bookmark href="https://boosteria.org/de/customer-area" id="405">
+    <title>Boosteria - Treueprogramm</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/search?client=firefox-b-d&amp;q=PoE2+ranger+build" id="406">
+    <title>PoE2 ranger build - Google Suche</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.de/Kabelwanne-Netzwerkswitch-Dockingstation-Schreibtisch-Kabelmanagement-schwarz/dp/B0D33HKL6P?crid=331U8U451EMYB&amp;dib=eyJ2IjoiMSJ9.CJ7yr7omM9VxiAWb1JCDtzsT0UGwfu72SjwqrLvXGh52n4MGf3c40an9ijGkY1uJ1FQh8El5Vs6Uq-GrZta__8ng7zMDayDqAFI8A8Mw_jC_QfZOiciP33p-JOm3ry6MaVixDAgJAk5iU0iiDq6j_n3OKLNISAF4lUEnX3fabrBNweoaeBXLx7UgSCCFxFNNj-KN3W0sb1lQrU7L3buAe5pKoRg8-_YpsVYNQfyFNEilFWVh8X-1P-_lPXLNIfegGpKBjWr4XuuiAGegd1GcH-DmPM69-sPUygoR82YZAKa4a6fNNJe_FHyU6fkdN55FZu19C9hX0G30nWtjBlNKrq8MvvGVuMFh5rYD6Agi1XIacFfOj9JOxppKJfDOMd0DNXdmDGo9xVK6n0xreszDeARrIYE__O1nO9q1Sj2wUG0wxiVNbd3jek-STyOdgl1u.50UMp4TqWR8vvgYl1DqcHt0uZjBZfpAkhd_ncuOJnPw&amp;dib_tag=se&amp;keywords=kabelwanne%2Bschreibtisch&amp;qid=1734716648&amp;sprefix=kabelwanne%2Caps%2C110&amp;sr=8-32&amp;th=1" id="419">
+    <title>Robuste 60 cm Lange Kabelwanne für Netzwerkswitch, Router, Dockingstation, Schreibtisch Set, Kabelkanal schwarz, Kabelmanagement im Gaming Raum: Amazon.de: Baumarkt</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=ix9cRaBkVe0" id="420">
+    <title>(1) Python Full Course for free 🐍 (2024) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.lincplustech.com/de-de/products/lincstation-n1-network-attached-storage?variant=45990255460522" id="421">
+    <title>LincPlus LincStation N1 6-Bay NAS | 16GB RAM+128G ROM | Storage 6x8TB</title>
+  </bookmark>
+  <bookmark href="https://liliputing.com/lincplus-lincstation-n1-review-an-affordable-6-bay-nas-with-support-for-up-to-48tb-of-solid-state-storage/" id="422">
+    <title>LincPlus LincStation N1 Review: An affordable 6-bay NAS with support for up to 48TB of solid state storage - Liliputing</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=b_4opQlrDmE" id="423">
+    <title>Darts-Raum UMBAU und ROOMTOUR🎯(Scolia + Granboard) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.gaumenfreundin.de/schupfnudelpfanne/" id="424">
+    <title>Schupfnudelpfanne mit Gemüse und Hähnchen</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Jxj38TjmNNY&amp;t=200s" id="425">
+    <title>(7) Wake on LAN Computer starten mit dem iPhone - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.jb-spielwaren.de/alle-neuen-formel-1-speed-champions-inklusive-bedruckter-saisonuebersicht-im-rennstreckendesign/a-648663874/" id="426">
+    <title>Alle neuen Formel 1 Speed Champions inklusive bedruckter Saisonübersicht im Rennstreckendesign | JB Spielwaren</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/shorts/yNnjiS-25y4" id="427">
+    <title>(58) ⚠️ Ich habe über 1.000 KI Tools getestet: Das sind die 10 besten! 🦾#artificialintelligence #aitools - YouTube</title>
+  </bookmark>
+</folder>
+<folder id="10">
+  <title>Music</title>
+  <bookmark href="https://www.youtube.com/watch?v=BxuUaFNOezk" id="48">
+    <title>NBSPLV - Imprint - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=K4o3z5fTdOI" id="49">
+    <title>NBSPLV - Imprint - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=QdabIfmcqSQ" id="50">
+    <title>Caravan Palace - Miracle (official video) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=cxdwEOpGknk" id="51">
+    <title>Emily Browning - Sweet Dreams - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=qd8W50FWLiE&amp;t=333s" id="52">
+    <title>B Complex - Beautiful Lies - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=CC5ca6Hsb2Q" id="53">
+    <title>Robert Miles - Children [Dream Version] - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=I4CMS1UFHDw" id="54">
+    <title>The Magic Bomb 2021 - Hoàng Read - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=x8gBfEDoEbY" id="55">
+    <title>Paradise Magic Music - &apos;Back To The 80&apos;s&apos; Best of Synthwave And Retro Electro Music - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=yoZy2E17-50" id="56">
+    <title>Phao - 2 Phut Hon (KAIZ Remix) | TikTok Vietnamese Music 2020 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=alRZv8fwGQc&amp;ab_channel=MusicNation" id="57">
+    <title>Circles Bob - Frozen - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Y6q_MpLZg0A&amp;ab_channel=GraceE.Robinson" id="142">
+    <title>Adiemus - Miriam Stockley - Eternal - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=GCsQZSB1gZg" id="143">
+    <title>Karl Jenkins - Adiemus (Official Video) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=T7NlusISiHo" id="144">
+    <title>Adiemus - Adiemus [Enya] - YouTube</title>
+  </bookmark>
+  <bookmark href="https://clips.twitch.tv/DarlingFamousHabaneroHoneyBadger-0_bLWwgkzYtQNCkt" id="145">
+    <title>Aster_remix_mp3 - Twitch</title>
+  </bookmark>
+</folder>
+<folder id="11">
+  <title>Games</title>
+  <folder id="58">
+    <title>Hearthstone</title>
+    <bookmark href="https://www.hsguru.com/" id="78">
+      <title>HSGuru</title>
+    </bookmark>
+    <bookmark href="https://www.hearthstonetopdecks.com/" id="79">
+      <title>Hearthstone Top Decks - The Best Hearthstone Decks in the Meta!</title>
+    </bookmark>
+    <bookmark href="http://metastats.net/" id="80">
+      <title>Hearthstone Meta Stats - Real-Time Hearthstone Stats</title>
+    </bookmark>
+    <bookmark href="https://www.hearthstonetopdecks.com/tavern-brawl-pre-release-brawl/" id="81">
+      <title>Tavern Brawl - The Great Dark Beyond Pre-Release Brawl - 6 Wins Decks! - Hearthstone Top Decks</title>
+    </bookmark>
+  </folder>
+  <folder id="59">
+    <title>Allgemein</title>
+    <bookmark href="https://www.youtube.com/watch?v=nH66xw0kG-I&amp;ab_channel=EugenErhart%28Tatakaus%29" id="82">
+      <title>FPS anzeigen lassen - MSI Afterburner Overlay Setup [CPU GPU Temperatur, Frametime, Auslastung] - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="60">
+    <title>Phasmophobia</title>
+    <bookmark href="https://un0btanium.github.io/phasmophobia-cheatsheet/" id="83">
+      <title>Phasmophobia CheatSheet</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/PhasmophobiaGame/comments/j143tt/greetings_agents_ive_received_a_comprehensive/" id="84">
+      <title>Greetings Agents, I&apos;ve received a comprehensive list of words ghosts will respond to from the retrieval team when using the Spirit Box to collect evidence. : PhasmophobiaGame</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/PhasmophobiaGame/comments/j4p3de/ghost_cheat_sheet_strengthweaknesses_and_clues/" id="85">
+      <title>Ghost Cheat Sheet - Strength/Weaknesses and Clues : PhasmophobiaGame</title>
+    </bookmark>
+    <bookmark href="https://steamah.com/phasmophobia-words-and-phrases-ghosts-will-respond/#Spirit_Box_Questions" id="86">
+      <title>Phasmophobia Words and Phrases Ghosts Will Respond - SteamAH</title>
+    </bookmark>
+  </folder>
+  <folder id="61">
+    <title>Monster Hunter World</title>
+    <bookmark href="https://mhworld.kiranico.com/de" id="87">
+      <title>MH:World - Kiranico - Monster Hunter World: Iceborne Database</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/MonsterHunterMeta/comments/j4x244/ib_meta_builds_compilation_the_fatalis_empire/" id="88">
+      <title>[IB] Meta Builds Compilation: The Fatalis Empire : MonsterHunterMeta</title>
+    </bookmark>
+    <bookmark href="https://mhw.poedb.tw/ger/" id="89">
+      <title>Monster Hunter World Chronicles</title>
+    </bookmark>
+    <bookmark href="https://flingtrainer.com/trainer/monster-hunter-world-trainer/" id="90">
+      <title>Monster Hunter World: Iceborne Trainer | FLiNG Trainer - PC Game Cheats and Mods</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=dGqkNzHuNB0" id="91">
+      <title>Bow Anti-Alatreon Build : MHW Iceborne Amazing Builds : Season 5 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=UzOFdC9vE9A" id="92">
+      <title>💀FATALIS BESIEGEN💀 - MIT DIESER TAKTIK BESIEGST DU IHN! Monster Hunter World Iceborne Fatalis Guide - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=pE9ZcJk_U58" id="93">
+      <title>ANTI - FATALIS SWITCHAXE BUILD - FATALIS EASY MODE | MHW: ICEBORNE - NO FATALIS GEAR NEEDED. - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/MonsterHunterMeta/" id="94">
+      <title>[IB] Meta Builds Compilation: The Fatalis Empire : MonsterHunterMeta</title>
+    </bookmark>
+  </folder>
+  <folder id="62">
+    <title>For The King</title>
+    <bookmark href="https://fortheking.gamepedia.com/Lore_Store" id="95">
+      <title>Lore Store - Official For The King Wiki</title>
+    </bookmark>
+  </folder>
+  <folder id="63">
+    <title>Dead by Daylight</title>
+    <bookmark href="https://www.youtube.com/watch?v=d9U1xxHJ7vs" id="96">
+      <title>Top 10 Best Survivor Perk Builds of the Year (Dead by Daylight 2020) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=jOsJSUKeiR8" id="97">
+      <title>[PATCHED] ULTIMATE OP Config! Dead by Daylight | NO FOG Increased Brightness FPS Boost - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=8MGbvaSg0yA" id="98">
+      <title>Best Ruin+Undying Builds For Every Killer - Dead by Daylight - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Ked0izHDDCk" id="99">
+      <title>All Survivors Items + Add-ons Explained &amp; Tier-listed | Dead by Daylight - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=I5j4_aw1DyM" id="100">
+      <title>ULTIMATE OP Config! Dead by Daylight 4.5.1+ | FPS Boost Remove AA NO BLUR Better Graphics No V-Sync! - YouTube</title>
+    </bookmark>
+    <bookmark href="https://deadbydaylight.fandom.com/de/wiki/Talente" id="101">
+      <title>Talente – Offizielles Dead by Daylight Wiki</title>
+    </bookmark>
+    <bookmark href="https://www.time2win.net/keys/" id="102">
+      <title>Manage Purchases - time2win.net</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=ShD_xVH8DR0" id="103">
+      <title>Updated Tier-list &amp; Explanation for EVERY Killer Add-on | Dead by Daylight - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/channel/UCMaihfFCr91g3TWW6jvCMWw" id="104">
+      <title>WOUBZY - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.bloodygang.com/ticketsystem/ticket/1399-bloody-scylla-lifetime/" id="105">
+      <title>Bloody Scylla Lifetime - Bloody Gang</title>
+    </bookmark>
+  </folder>
+  <folder id="64">
+    <title>Zelda Breath of the Wild</title>
+    <bookmark href="https://www.youtube.com/watch?v=4inIhZ6NLTc" id="106">
+      <title>The Legend of Zelda: Breath of the Wild CEMU | ReShade komplettes Tutorial - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="65">
+    <title>Mario Kart</title>
+    <bookmark href="https://mk8dxbuilder.com/" id="107">
+      <title>Mario Kart 8 Deluxe Builder 1.1</title>
+    </bookmark>
+    <bookmark href="https://medium.com/civis-analytics/the-best-mario-kart-character-according-to-data-science-7dfb65d4c18e" id="108">
+      <title>The best Mario Kart character according to data science | by Civis Analytics | The Civis Journal | Medium</title>
+    </bookmark>
+    <bookmark href="https://imgur.com/a/CRDpNVY" id="109">
+      <title>Pareto Efficient Kart Combos - MK8DX - Imgur</title>
+    </bookmark>
+  </folder>
+  <folder id="66">
+    <title>Wordl</title>
+    <bookmark href="https://de.worder.cat/wortsucher" id="110">
+      <title>WORdER | Cheats und Finder für Words With Friends, Wordfeud und andere Wortspiele</title>
+    </bookmark>
+    <bookmark href="https://en.worder.cat/wordsfinder/cookies" id="111">
+      <title>WORdER English | Cookies policy</title>
+    </bookmark>
+    <bookmark href="https://www.wordle-helper.info/deutsch" id="112">
+      <title>Lösungen für Wordle auf deutsch</title>
+    </bookmark>
+  </folder>
+  <folder id="67">
+    <title>Dark Souls I</title>
+    <bookmark href="https://steamcommunity.com/sharedfiles/filedetails/?id=1393232553" id="113">
+      <title>Steam Community :: Guide :: DARK SOULS: REMASTERED 100% Achievement Guide</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=bh4uth6nH18&amp;list=PLyT5NcCVqdX9A6vwe1cIExN38nOyODVkG&amp;index=23" id="114">
+      <title>Royal Wood All Items Walkthrough - Dark Souls Remastered - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=wY35UKQGulY&amp;list=PL2ixkMefHaVvjRhpFJdyDCVhk9pD8xtZN&amp;index=22" id="115">
+      <title>Dark Souls Remastered 100% Item Guide ROYAL WOOD - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.dldu-tabelle.com/" id="116">
+      <title>Die Liga der Unsterblichen (DLDU) Tabelle</title>
+    </bookmark>
+    <bookmark href="https://smcnabb.github.io/dark-souls-cheat-sheet/#Undead_Asylum" id="117">
+      <title>Dark Souls Cheat Sheet</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=RhZoI5P7I6Y&amp;list=PL9mCpX6c6S4yrpyoHFXDY_Dsku_ymVsSN&amp;ab_channel=LookingForGamers" id="118">
+      <title>Dark Souls Remastered | 100% Achievement Guide | Part 1 - Northern Undead Asylum - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="191">
+    <title>Dark Souls III</title>
+    <bookmark href="https://steamcommunity.com/app/374320/discussions/0/343788552550916197/" id="211">
+      <title>Borderless Windowed mode? :: DARK SOULS™ III Allgemeine Diskussionen</title>
+    </bookmark>
+    <bookmark href="https://steamcommunity.com/sharedfiles/filedetails/?id=663773813" id="212">
+      <title>Steam Community :: Guide :: Dark Souls III 100% Achievement Guide</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=LZpfpORA8Ww&amp;list=PLgnoHDoVhaXcTXSAXyJ5EmnA55WZSaU3c" id="213">
+      <title>Dark Souls 3 100% Walkthrough #1 Cemetery Of Ash (All Items &amp; Secrets) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=9VbHDzE3onY&amp;list=PL2NAYYpOvnM3DfECxUug7ifcWtlGseDT9&amp;index=41" id="214">
+      <title>Dark Souls 3 DLC The Ringed City Profi Walkthrough | Der Trümmerhaufen - YouTube</title>
+    </bookmark>
+    <bookmark href="http://zkjellberg.github.io/dark-souls-3-cheat-sheet/#Cemetery_of_Ash" id="215">
+      <title>Dark Souls 3 Cheat Sheet</title>
+    </bookmark>
+  </folder>
+  <folder id="192">
+    <title>Hades</title>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1aHdIl8mx6wB1fysJOtQDEuSlEzL4eD9W50O4XjxxL9o/edit#gid=0" id="216">
+      <title>Hades Megasheet - Google Tabellen</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1Py-bKw-IYzFqmsWvN1beBF4YEqU_vkVvB9F4OcVOdg8/edit#gid=582333738" id="217">
+      <title>Hades Megasheet 1.0 - Google Tabellen</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1rfKEE97bCiI0If96nA1QTsyvkGTYK4iChSwnepLU7RA/edit#gid=1651987180" id="218">
+      <title>Hades Boons: Interactive Tool - Google Tabellen</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=bY42CJs159Q&amp;ab_channel=Haelian" id="219">
+      <title>The 6 Most OVERPOWERED Builds in Hades | Haelian - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=EbMkJBxIVaI&amp;ab_channel=Haelian" id="220">
+      <title>Hades Top 6 EASIEST Builds in v1.0 | Haelian - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="193">
+    <title>Borderlands 3</title>
+    <bookmark href="https://www.pcgamer.com/borderlands-3-shift-codes/" id="221">
+      <title>Borderlands 3 Shift codes you can redeem right now | PC Gamer</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=LkBOvJesn9g" id="222">
+      <title>Borderlands 3 Guide - Best Zane Build - Chaos 10 Easy Mode - Entspannt die härtesten Bosse knacken - YouTube</title>
+    </bookmark>
+    <bookmark href="https://progameguides.com/borderlands/borderlands-3-shift-codes-list-guide/" id="223">
+      <title>Borderlands 3 Shift Codes List (May 2022) - Shift Codes for Golden Keys &amp; Rewards - Pro Game Guides</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=gGoACTDD5lA" id="224">
+      <title>NEW ZANE BUILD! Clone &amp; Cannon Setup! // Borderlands 3 Level 72 Zanezerker Build - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="194">
+    <title>FTL</title>
+    <bookmark href="https://steamcommunity.com/sharedfiles/filedetails/?id=208153384" id="225">
+      <title>Steam Community :: Guide :: FTL: Eine Guide Übersicht (German)</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=TwAPrkDL_PU" id="226">
+      <title>FTL - E67 Part 2 - Ancestry - YouTube</title>
+    </bookmark>
+    <bookmark href="https://ftl.fandom.com/wiki/Category:Ship_Unlocking_Events" id="227">
+      <title>Category:Ship Unlocking Events | FTL: Faster Than Light Wiki | Fandom</title>
+    </bookmark>
+    <bookmark href="https://gamerant.com/ftl-faster-light-unlock-every-ship-guide/" id="228">
+      <title>FTL Faster Than Light: How To Unlock Every Ship</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=cMVlkQhF3Kw&amp;list=PLGCAaPvQJtQIs8zDUss4zGuUKOJtC0HvT&amp;index=22" id="229">
+      <title>FTL Tips &amp; Tricks #19: Weapons Pre-Igniter Trick / Exploit - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="195">
+    <title>Sea of Thieves</title>
+    <bookmark href="http://surveyorpete.fun/Explore/Feature/142" id="230">
+      <title>Home Page</title>
+    </bookmark>
+    <bookmark href="https://rarethief.com/sea-of-thieves-riddle-guide/" id="231">
+      <title>Sea of Thieves Riddle Guide | Rare Thief</title>
+    </bookmark>
+    <bookmark href="https://rarethief.com/sea-of-thieves-treasure-vault-locations/" id="232">
+      <title>Sea of Thieves: Treasure Vault Locations | Rare Thief</title>
+    </bookmark>
+    <bookmark href="https://mmoscoop.com/cargo-run-npc-location-sea-of-thieves/" id="233">
+      <title>List of Every Cargo Run NPC Location in Sea of Thieves</title>
+    </bookmark>
+    <bookmark href="https://i.redd.it/hifa3skzf0851.jpg" id="234">
+      <title>hifa3skzf0851.jpg (JPEG-Grafik, 2632 × 3012 Pixel) - Skaliert (30%)</title>
+    </bookmark>
+    <bookmark href="https://seaofthieves.fandom.com/wiki/Gold_Rush" id="235">
+      <title>Gold Rush | The Sea of Thieves Wiki</title>
+    </bookmark>
+    <bookmark href="https://www.merfolkslullaby.com/de/map?latitude=18.63&amp;longitude=-64.42&amp;zoom=11&amp;realm=sea-of-thieves&amp;tab=weather" id="236">
+      <title>Sea of Thieves Interactive Map • Merfolk&apos;s Lullaby</title>
+    </bookmark>
+    <bookmark href="https://www.saucrew.de/sea-of-thieves/guides/achievements/legends-of-the-sea-umbra" id="237">
+      <title>Der Sea of Thieves Umbra Guide » Sadistische Abmurkser Union</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=8egNvoQ2Ggg" id="238">
+      <title>SHORES OF GOLD Tall Tale COMPLETE Walkthrough | All Commendations ► Sea of Thieves - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.seaofthieves.com/de/insider" id="239">
+      <title>Sea of Thieves - Sea of Thieves – Insider-Programm</title>
+    </bookmark>
+    <bookmark href="https://www.saucrew.de/sea-of-thieves/guides/seemannsgarn" id="284">
+      <title>Seemannsgarn Guides für Sea of Thieves » Lösungen der SoT Tall Tales</title>
+    </bookmark>
+    <bookmark href="https://www.ign.com/maps/sea-of-thieves/interactive" id="285">
+      <title>Sea of Thieves Map - World - IGN</title>
+    </bookmark>
+    <bookmark href="https://www.twitch.tv/seaofthieves" id="286">
+      <title>SeaOfThieves - Twitch</title>
+    </bookmark>
+    <bookmark href="https://rarethief.com/sea-of-thieves-all-sunken-kingdom-siren-shrine-guides/" id="287">
+      <title>Sea of Thieves: All Sunken Kingdom Siren Shrine Guides - Rare Thief</title>
+    </bookmark>
+  </folder>
+  <folder id="196">
+    <title>Satisfactory</title>
+    <bookmark href="https://www.satisfactorytips.com/layouts/fuel-super-efficient-build-guide" id="240">
+      <title>Crude Oil to Fuel Super-Efficient Build Guide | Satisfactory Tips</title>
+    </bookmark>
+    <bookmark href="https://webinterface.nitrado.net/11643110/wi/logging/" id="241">
+      <title>Nitrado.net Webinterface - Ereignisprotokoll</title>
+    </bookmark>
+    <bookmark href="https://control.low.ms/Interface/GameHosting/ServiceHome.aspx?serviceid=21191" id="242">
+      <title>LOW.MS Control - Satisfactory 10 slots 159.69.226.144:25000</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=LD8YzZotX3M" id="243">
+      <title>HOW TO CREATE A SATISFACTORY SERVER WITH GPORTAL ! - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=crL1WekvXbE" id="244">
+      <title>SATISFACTORY QUICK TIPS: Über die Map in 0.5s - LIGHT SPEED HYPERTUBE HUB GUIDE - YouTube</title>
+    </bookmark>
+    <bookmark href="https://static.wikia.nocookie.net/satisfactory_gamepedia_en/images/d/d9/Recipe_Quick_Reference.jpg/revision/latest/scale-to-width-down/1000?cb=20220703162033" id="245">
+      <title>Recipe_Quick_Reference.webp (WEBP-Grafik, 1000 × 4376 Pixel) - Skaliert (21%)</title>
+    </bookmark>
+  </folder>
+  <folder id="197">
+    <title>GTA III</title>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1f8J7E_KhOUeHAR_kByaf6roBdz6D-bFOp16BkBoDe6o/edit#gid=1239004149" id="246">
+      <title>GTA III 100% route - Google Tabellen</title>
+    </bookmark>
+    <bookmark href="https://socialclub.rockstargames.com/games/gta3" id="247">
+      <title>Grand Theft Auto III - The Definitive Edition: Erfolge - Rockstar Games Social Club</title>
+    </bookmark>
+    <bookmark href="https://gta.fandom.com/wiki/Achievements_and_Trophies_in_GTA_III" id="248">
+      <title>Achievements and Trophies in Grand Theft Auto III | GTA Wiki | Fandom</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=G47STRdPcJg&amp;ab_channel=spieletipps" id="249">
+      <title>GTA 3: Alle 20 Monsterstunts finden und abschließen (Definitive Edition) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=at0L2HWtP_E&amp;ab_channel=GTASeriesVideos" id="250">
+      <title>GTA 3 - RC Toyz Missions Guide [Man Toyz Trophy] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=25NtKxpfbWI&amp;ab_channel=spieletipps" id="251">
+      <title>GTA 3: Alle 100 versteckten Päckchen (Fundorte in der Definitive Edition) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=E8PfWTSPth8&amp;ab_channel=GTASeriesVideos" id="252">
+      <title>GTA 3 - Rampages Guide [Blood in the Streets Trophy] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=C9mLj14UVFI&amp;ab_channel=ACMANISH" id="253">
+      <title>GTA 3: Definitive Edition - All Pay Phone Missions [1440p 60FPS] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=UqpFgSWZYEY&amp;ab_channel=GTASeriesVideos" id="254">
+      <title>GTA 3 - Import/Export Guide [Play Fetch &amp; Pest Control Trophy] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://mapgenie.io/grand-theft-auto-3/maps/liberty-city" id="255">
+      <title>GTA III Interactive Map | Map Genie</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=DMMWJaj955A&amp;ab_channel=KesGaming" id="288">
+      <title>How to Fix the Stunt Jump Bug in Grand Theft Auto 3: Definitive Edition! - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=5-YMvAih2LE&amp;ab_channel=GTASeriesVideos" id="289">
+      <title>GTA 3 - Off-Road Missions Guide - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="198">
+    <title>Factorio</title>
+    <bookmark href="https://www.youtube.com/watch?v=qvEeN3TIKWk&amp;ab_channel=SeeNo" id="256">
+      <title>FACTORIO Tutorial | Das große BALANCER Video | Mit Blaupausen! | Tipps &amp; Tricks | Deutsch - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="199">
+    <title>Elden Ring</title>
+    <bookmark href="https://www.eurogamer.de/elden-ring-pc-performance-beste-einstellungen" id="257">
+      <title>Elden Ring ruckelt am PC: Das könnt ihr für bessere Performance tun | Eurogamer.de</title>
+    </bookmark>
+    <bookmark href="https://i-cdn.embed.ly/1/display?key=fd92ebbc52fc43fb98f69e50e7893c13&amp;url=https%3A%2F%2Fi.redd.it%2Fjnmjhikugdm81.jpg" id="258">
+      <title>display (JPEG-Grafik, 1080 × 1920 Pixel) - Skaliert (48%)</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Y-3ar9mGcfg&amp;ab_channel=ColdBwoyy" id="259">
+      <title>Elden Ring Strength Builds Are OVERPOWERED After Patch 1.07 👀 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://eldenring.wiki.fextralife.com/file/Elden-Ring/all_bosses_stats_list_elden_ring_wiki_guide_1920px-min.jpg?v=1649531516448" id="260">
+      <title>all_bosses_stats_list_elden_ring_wiki_guide_1920px-min.jpg (JPEG-Grafik, 1920 × 6488 Pixel)</title>
+    </bookmark>
+    <bookmark href="https://www.drivereasy.com/knowledge/fixed-elden-ring-fps-drops-and-stuttering/" id="261">
+      <title>6 Quick Ways to Fix Elden Ring FPS Drops and Stuttering - Driver Easy</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=oABpBvZ72Dc&amp;ab_channel=NizarGG" id="262">
+      <title>ALL Overpowered Builds In Elden Ring After NEW Patch 1.07 (Intelligence/Dex/Strength/Faith/Arcane) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=wzIZBTmsBHg&amp;ab_channel=NizarGG" id="263">
+      <title>The Most Powerful PURE Strength Build In Elden Ring (Get OP EARLY, NO Gimmick) | Ultimate Hero Guide - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.giga.de/tipp/elden-ring-alle-klangperlen-finden-klangperlenjaeger-fundorte/#klangperlen_jaeger_finden" id="264">
+      <title>Elden Ring: Klangperlen-Fundorte und Jäger finden</title>
+    </bookmark>
+    <bookmark href="https://eldenring.wiki.fextralife.com/file/Elden-Ring/game_progress_route_map_elden_ring_wiki_guide_2560px.jpg?v=1648007543931" id="265">
+      <title>game_progress_route_map_elden_ring_wiki_guide_2560px.jpg (JPEG-Grafik, 2560 × 2407 Pixel) - Skaliert (38%)</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Sybo65yiImo&amp;t=4s&amp;ab_channel=Fextralife" id="266">
+      <title>Shunning Grounds Walkthrough: ALL NPC, Secrets, All Items Elden Ring Playthrough Guide - YouTube</title>
+    </bookmark>
+    <bookmark href="https://pressakey.com/gameinfos,6245,errungenschaften,,,Elden-Ring,.html" id="290">
+      <title>Elden Ring - Steam Achievements | pressakey.com</title>
+    </bookmark>
+    <bookmark href="https://www.eurogamer.de/elden-ring-alle-enden-erklaert-voraussetzungen-und-wie-man-sie-freischaltet" id="291">
+      <title>Elden Ring: Alle Enden erklärt, Voraussetzungen und wie man sie freischaltet | Eurogamer.de</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=LR4dzcmqdW8&amp;ab_channel=Holy_13Gaming" id="292">
+      <title>PERFEKTER START als MAGIER in Elden Ring - EASY MODUS Elden Ring - BESTE Klasse für Souls Anfänger - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="200">
+    <title>LS22</title>
+    <bookmark href="https://www.youtube.com/watch?v=paYCaURcXJE&amp;ab_channel=MarioHirschfeld" id="267">
+      <title>LS22 Tutorials: Multiplayer starten, beitreten ... // Grundlagen für Einsteiger - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=msP-JWi4WgA&amp;ab_channel=MarioHirschfeld" id="268">
+      <title>LS22 Tutorials: Dedi-Server mieten / Multiplayer Server einrichten // Grundlagen für Einsteiger - YouTube</title>
+    </bookmark>
+    <bookmark href="https://panel.gamed.de/user/gameserver/main/1456139" id="269">
+      <title>gamed!de Webinterface v4</title>
+    </bookmark>
+    <bookmark href="https://p000387.secure-panel.de/index.html?login=true&amp;username=admin&amp;password=bmDVAZYjn8" id="270">
+      <title>Farming Simulator Dedicated Server | Home</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1UcwsnxSn49wZSjMRZcc2VpKEgL_RBPAQ_bhoK4wFzs8/edit" id="271">
+      <title>Modlisten Real Seniors + Mario Hirschfeld - Google Tabellen</title>
+    </bookmark>
+  </folder>
+  <folder id="315">
+    <title>WoW</title>
+    <bookmark href="https://www.icy-veins.com/wow/blood-death-knight-pve-tank-mythic-plus-tips" id="322">
+      <title>Blood Death Knight Tank Mythic+ Tips - Dragonflight 10.0.2 - World of Warcraft - Icy Veins</title>
+    </bookmark>
+    <bookmark href="https://wow.4fansites.de/news,10007,WoW-Dragonflight-Routen-und-Positionen-von-allen-Drachenglyphen-zum-Drachenreiten-im-UEberblick.html" id="323">
+      <title>WoW Dragonflight: Routen und Positionen von allen Drachenglyphen zum Drachenreiten im Überblick</title>
+    </bookmark>
+    <bookmark href="https://www.patreon.com/nnoggie" id="324">
+      <title>Nnoggie bietet NnoggieUI and Mythic Dungeon Tools  | Patreon</title>
+    </bookmark>
+    <bookmark href="https://dotesports.com/wow/news/dragonriding-races-quests-locations-rewards-in-wow-dragonflight" id="325">
+      <title>Dragonriding races quests, locations, and rewards in WoW Dragonflight - Dot Esports</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=KRhr7X_LhNo&amp;ab_channel=QuaziiWoW" id="326">
+      <title>WoW Dragonflight M+ Routes: A Guide For Season 1 Dungeons - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="316">
+    <title>Pokemon</title>
+    <bookmark href="https://de.wikihow.com/Pok%C3%A9mon-mit-John-GBA-Lite-tauschen" id="327">
+      <title>Pokémon mit John GBA Lite tauschen (mit Bildern) – wikiHow</title>
+    </bookmark>
+    <bookmark href="https://www.romspedia.com/roms/gameboy-advance/pokemon-feuerrote/download?speed=fast" id="328">
+      <title>Download Pokemon Feuerrote ROM</title>
+    </bookmark>
+    <bookmark href="https://www.bisafans.de/spiele/editionen/pikachu-evoli/beste-wesen.php" id="329">
+      <title>Die besten Wesen für alle Pokémon — Pokémon Let&apos;s Go, Pikachu! &amp; Evoli! — Editionen — Spiele — Bisafans.de</title>
+    </bookmark>
+    <bookmark href="http://sfc.pokefans.net/codes/frbg.html" id="330">
+      <title>Cheat-Codes für Pokemon Feuerrot und Blattgrün (FRBG)</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=JrBNeT-dXQw&amp;ab_channel=PresPres" id="331">
+      <title>DAS ist die richtige Reihenfolge für Pokémon Karmesin &amp; Purpur! - YouTube</title>
+    </bookmark>
+    <bookmark href="https://vimm.net/?p=vault" id="332">
+      <title>Vimm&apos;s Lair: The Vault</title>
+    </bookmark>
+    <bookmark href="https://www.pokewiki.de/Tausch" id="333">
+      <title>Tausch – PokéWiki</title>
+    </bookmark>
+  </folder>
+  <folder id="317">
+    <title>Across the Obelisk</title>
+    <bookmark href="https://www.youtube.com/watch?v=mfpswR5l1ok&amp;ab_channel=DeckerTech" id="334">
+      <title>How to Win with starting team Across the Obelisk - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="318">
+    <title>Tainted Grail</title>
+    <bookmark href="https://www.casual-ben.com/blog/2021/08/17/unlocking-classes-characters-tainted-grail-conquest/" id="335">
+      <title>🔓 Unlocking Classes / Characters - Tainted Grail: Conquest | casual-ben</title>
+    </bookmark>
+    <bookmark href="https://taintedgrail-conquest.fandom.com/wiki/General_FAQ" id="336">
+      <title>General FAQ | Tainted Grail: Conquest Wiki | Fandom</title>
+    </bookmark>
+  </folder>
+  <folder id="319">
+    <title>Rogue Legacy 2</title>
+    <bookmark href="https://imgbb.com/H2kYsb1" id="337">
+      <title>Rogue-Legacy-2-Armor-Required — ImgBB</title>
+    </bookmark>
+  </folder>
+  <folder id="320">
+    <title>Rocket League</title>
+    <bookmark href="https://liquipedia.net/rocketleague/List_of_player_control_settings" id="338">
+      <title>List of player control settings - Liquipedia Rocket League Wiki</title>
+    </bookmark>
+  </folder>
+  <folder id="321">
+    <title>X4</title>
+    <bookmark href="https://www.youtube.com/watch?v=wGZf6k56L9Q&amp;ab_channel=BlueTars" id="339">
+      <title>Anfänger und Einsteiger Tipps für den Beginn von 🌌 X4 Foundations TUTORIAL 🌌 Gameplay Deutsch Tipps - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="350">
+    <title>GTA Vice City</title>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1Xg76WqrXWrJ7DL8B3NJSCkVkyFykzG2RvL6QB7TsRDw/edit#gid=744810444" id="353">
+      <title>GTA Vice City Routes - Google Tabellen</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=46hQ6euygGA&amp;ab_channel=GTASeriesVideos" id="354">
+      <title>GTA Vice City - 100% Completion Guide [Done it All Trophy] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=BO5PPx64ryU&amp;ab_channel=GTASeriesVideos" id="355">
+      <title>GTA Vice City Definitive Edition Missable Trophies Guide - YouTube</title>
+    </bookmark>
+    <bookmark href="https://socialclub.rockstargames.com/games/gtavc" id="356">
+      <title>Grand Theft Auto: Vice City - The Definitive Edition: Erfolge - Rockstar Games Social Club</title>
+    </bookmark>
+    <bookmark href="https://gta.fandom.com/wiki/Achievements_and_Trophies_in_GTA_Vice_City" id="357">
+      <title>Achievements and Trophies in Grand Theft Auto: Vice City | GTA Wiki | Fandom</title>
+    </bookmark>
+  </folder>
+  <folder id="351">
+    <title>Darkest Dungeon 2</title>
+    <bookmark href="https://www.youtube.com/@randypotato" id="358">
+      <title>Randy Potato - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="352">
+    <title>Diablo 4</title>
+    <bookmark href="https://www.youtube.com/watch?v=CjNZgfwtSss&amp;ab_channel=LunarGaming" id="359">
+      <title>All 34 Altars of Lilith Locations (Hawezar) Diablo 4 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://game8.co/games/Diablo-4/archives/408176" id="360">
+      <title>List of Side Quests | Diablo 4 (D4)｜Game8</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Gvr9zE7oxW4&amp;ab_channel=Mintastical" id="361">
+      <title>Diablo 4: How to Find All Side Quests - YouTube</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/143tXzN_7-yoQCy7QEjo924UT2kWqH1VhWyXEsOvlwgA/htmlview#" id="362">
+      <title>wudijo Nightmare Dungeon Tier List - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=CBRei2Kr4Fw&amp;ab_channel=Mtashed" id="363">
+      <title>The BEST Diablo 4 Build: &quot;Perfect&quot; End Game Ice Shard Sorcerer - YouTube</title>
+    </bookmark>
+    <bookmark href="https://game8.co/games/Diablo-4/archives/410034#hl_1" id="364">
+      <title>Helltide Timer, Time Schedule and Event Guide | Diablo 4 (D4)｜Game8</title>
+    </bookmark>
+    <bookmark href="https://app.mobalytics.gg/diablo-4/builds" id="365">
+      <title>Diablo 4 Builds - Best Builds &amp; Guides for Every Class</title>
+    </bookmark>
+  </folder>
+  <folder id="388">
+    <title>Dark and Darker</title>
+    <bookmark href="https://www.chafgames.com/games/dark-and-darker" id="407">
+      <title>Dark And Darker | Chaf Games</title>
+    </bookmark>
+    <bookmark href="https://darkanddarker.wiki.spellsandguns.com/Stats#Luck_Value_Table" id="408">
+      <title>Stats - Dark and Darker Wiki</title>
+    </bookmark>
+  </folder>
+  <folder id="389">
+    <title>Sekiro</title>
+    <bookmark href="https://www.youtube.com/watch?v=hwaaV_PPyEc&amp;list=PL2NAYYpOvnM3C28unI-7OBZCnGZ7FG0cK&amp;ab_channel=Jokerface" id="409">
+      <title>Sekiro Einsteiger-Guide #1: LOS GEHT&apos;S, SHINOBI! (100% Walkthrough) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://metarecursivo.github.io/sekiro/index" id="410">
+      <title>Sekiro Cheat Sheet</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://tesmart.de/products/pks0402a20-4-port-dual-monitor-kvm-switch-kit-dp-4k60hz-mit-usb-3-0-docking-station-edid" id="390">
+    <title>4 Port Dual Monitor KVM Switch Kit DP 4K60Hz mit USB 3.0 Docking Stati – TESmart.DE</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=juAv8ndBCjs&amp;list=PLTJzoKpEINN1aFeaTKSIvsDV1p2KEz_P1&amp;index=3&amp;ab_channel=BaddyGaming" id="391">
+    <title>ELDEN RING - Walkthrough / Komplettlösung 100% [German] Part 1: Liurnia &amp; Caelid - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=HrbVCUc-Uz8" id="392">
+    <title>Neue beste Seeds! Anno 1800 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.typingclub.com/sportal/program-10/3357.play" id="393">
+    <title>edclub</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=kQ12iCRNyIc&amp;list=PLx--4bBN4hc4Oltmm4HASEL2TpT70weC5" id="394">
+    <title>Into the Breach Hard and Fast - Punch, Push and Repeat: a Rift Walker&apos;s Life - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.keybr.com/de/index" id="411">
+    <title>Tippen üben</title>
+  </bookmark>
+  <bookmark href="https://www.edclub.com/sportal/program-10.game" id="412">
+    <title>EdClub</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=L4u7Zy_b868" id="413">
+    <title>Coding Challenge 180: Falling Sand - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.com/-/de/dp/B0C6LYHFT5/ref=sr_1_20?crid=3EO9JIMA6PI3E&amp;keywords=low%2Bprofile%2Bmechanical%2Bnumpad&amp;qid=1706646948&amp;sprefix=Mechanical%2BNumpad%2Blow%2Caps%2C142&amp;sr=8-20&amp;th=1" id="414">
+    <title>Amazon.com: EPOMAKER EK21 VIA Dichtungsnummernblock, Bluetooth 5.0/2.4 GHz/Wired Hot Swappable Numpad, mit Poron-Schaum, Aluminiumlegierung KOB, 1000 mAh Akku, programmierbar für Win/Mac/Gaming (Gateron Pro : Videospiele</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=PYR-K6EhjrA" id="415">
+    <title>Wie ich Programmieren lernen würde (Wenn ich von null starte) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=eKyAOjH3Crk" id="416">
+    <title>How to create Ultimate Personal Budget in Excel - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=MRtHNqafufg" id="417">
+    <title>Interactive Personal Finance Dashboard with FREE EXCEL TEMPLATE - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=niD3gx4BI9A" id="418">
+    <title>JavaScript Tutorial | SNAKE Programmieren in 60 Minuten - YouTube</title>
+  </bookmark>
+  <bookmark href="https://steamcommunity.com/app/2321470/discussions/0/6292161380807807799/" id="428">
+    <title>equip 4 acid weapons :: Deep Rock Galactic: Survivor Allgemeine Diskussionen</title>
+  </bookmark>
+  <bookmark href="https://strengthlevel.com/" id="429">
+    <title>Strength Level - Weightlifting Calculator (Bench/Squat/Deadlift)</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=HqrkMDZUKzs" id="430">
+    <title>(5) Beste Ausrüstung bis Level 20 / Helldivers 2 deutsch/german guide - YouTube</title>
+  </bookmark>
+  <bookmark href="https://helldivers.fandom.com/wiki/Stratagem_Codes_(Helldivers_2)" id="431">
+    <title>Stratagem Codes (Helldivers 2) - Helldivers Wiki</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=tiJ2H2IHWO4&amp;list=PLrmmPKYXqaFbr-bAMxu7R6IK0IVBGiS6B&amp;index=43" id="432">
+    <title>Two Point Campus Strategy &amp; Tactics Quick Tip - The Twin Training Room - YouTube</title>
+  </bookmark>
+  <bookmark href="https://patientenportal.medivere.de/patientenportal/medivere-test-aktivieren" id="433">
+    <title>Medivere Probenbegleitschein</title>
+  </bookmark>
+  <bookmark href="https://www.pkmn.help/defense/" id="434">
+    <title>Pokémon Typ Rechner</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=SufDVb1q2is" id="435">
+    <title>PokeRogue Easy Voucher Change/Cheat - YouTube</title>
+  </bookmark>
+  <bookmark href="https://promo-rewards.com/2022launch/de-DE/my-claim" id="438">
+    <title>Mein Antrag - Pixel 7/7 Pro Launch GWP</title>
+  </bookmark>
+  <bookmark href="https://f1setup.it/" id="439">
+    <title>F1 Manager Setup Calculator</title>
+  </bookmark>
+  <bookmark href="https://vampire-survivors.fandom.com/wiki/Evolution" id="440">
+    <title>Evolution | Vampire Survivors Wiki | Fandom</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=kobS9bEwfoA" id="441">
+    <title>(215) Unlocking every secret, character, weapon and achievement in Vampire Survivors (Part 1) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=v29e0HbxrXQ" id="442">
+    <title>How to get Bronze Celebration TOKENS | 46 Tokens This Week ► WOW: The War Within - YouTube</title>
+  </bookmark>
+  <bookmark href="https://mobalytics.gg/poe-2/builds/ruetoo-deadeye-grenadier" id="443">
+    <title>Deadeye Grenadier Act 1-3 - PoE 2 Ranger Build Guide</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=-d6XG4-204g" id="444">
+    <title>(36) Crossbow Mechanics, Skills and Combos Deep Dive for Path of Exile 2 Early Access - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/PathOfExile2/comments/1h9tu1c/neversinks_poe2_litefilter_highlights_all/" id="445">
+    <title>NeverSink&apos;s PoE2 Lite-Filter: Highlights all* important items, sounds, map icons, hides nothing : r/PathOfExile2</title>
+  </bookmark>
+  <bookmark href="https://mobalytics.gg/poe-2/builds/fubgun-live-starter" id="460">
+    <title>Fubgun Deadeye Leveling - PoE 2 Ranger Build Guide</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=h-pd4nC1XBs" id="461">
+    <title>(46) Kill BOSSES Easily With Better Gear In Path of Exile 2 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=InPxkSvFGAU" id="462">
+    <title>(48) POE 2 - BEST 3 EARLYGAME XP, GOLD AND LOOT FARMS! (Early Access) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=tL9ykwlhrP4" id="463">
+    <title>(7) The NEW way to install GeForce Now on Steam Deck - YouTube</title>
+  </bookmark>
+  <bookmark href="https://freebie.games/" id="464">
+    <title>Old-school classic games - Retro games in your browser</title>
+  </bookmark>
+  <bookmark href="https://prosettings.net/guides/cs2-monitor/" id="465">
+    <title>Best Monitor for CS2 [771 Pro Players, Dec 2024]</title>
+  </bookmark>
+  <bookmark href="https://steamcommunity.com/sharedfiles/filedetails/?id=1444536106" id="466">
+    <title>Steam Community :: Guide :: Tipps und Tricks für den Einstieg</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Lcly_98n26k&amp;t=361s" id="467">
+    <title>(4) My Time at Portia: the Skill tree overview - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=5d1Y98bAJ-w" id="468">
+    <title>(1) Every DBD Survivor RANKED by Teachable Perks - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=W7f0-prD1yg" id="469">
+    <title>(6) So machst du ganz einfach die 360 Drehung in DBD! [German/Deutsch] - Dead by Daylight Tutorial - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=90cb42uchCs" id="470">
+    <title>(6) Unlock THESE KILLERS First! - Dead by Daylight - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.otzdarva.com/" id="471">
+    <title>Otzdarva</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=6mXpSWpGiR0" id="472">
+    <title>(2) The Placement Strategy Catan Pros Use To Beat You - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=PHJ19DERH-c&amp;t=672s" id="473">
+    <title>(7) Wraith uses this perk like NOBODY else! | Dead by Daylight - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.eurogamer.de/kingdom-come-deliverance-komplettloesung-mit-tipps-und-tricks?page=20" id="474">
+    <title>Kingdom Come Deliverance – Hauptquest: Nadel im Heuhaufen | Eurogamer.de</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/kingdomcome/comments/1ijaac0/kcd2_dice_weight_table/" id="475">
+    <title>KCD2 - Dice Weight Table : r/kingdomcome</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=rtlV7VLCVDU&amp;t=71s" id="476">
+    <title>(12) SOFORT HOLEN - Beste Rüstung, Waffe &amp; Pferd DIREKT GRATIS in Kingdom Come Deliverance 2 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://grnk.shop/products/sweat-pants-grnk-core-edition-black" id="477">
+    <title>Sweat Pants - GRNK - Core Edition (Pitch Black) – grnk.shop</title>
+  </bookmark>
+  <bookmark href="https://www.etsy.com/de/listing/1877265377/ausstellungsstander-fur-f1-2025-lego?ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=speed+champion+display&amp;ref=sr_gallery-1-27&amp;sts=1&amp;content_source=3811e7c79402e5f30e3c28ef4b4cfa93dcf175e0%253A1877265377&amp;organic_search_click=1&amp;logging_key=3811e7c79402e5f30e3c28ef4b4cfa93dcf175e0%3A1877265377&amp;variation0=5145316210" id="478">
+    <title>Ausstellungsständer für F1 2025 LEGO Speed Champions 77242, 77243, 77244, 77245, 77246, 77247, 77248, 77249, 77250, 77251 / 66802 - Etsy UK</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=PBdQDaUeWDE" id="479">
+    <title>(28) Arkveld solo Long Sword in 1&apos;42&quot;70 | MHWilds - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=RH4-SIlWLxw" id="480">
+    <title>(28) Endgame Long Sword builds | Monster Hunter: Wilds - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=pB9CmZqj0dI" id="481">
+    <title>(29) Monster Hunter Wilds - Ultimate Long Sword Guide - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=6HKl_Za_vxo" id="486">
+    <title>(29) Monster Hunter Wilds Endgame Guide | MEHR Belohnungen, Artian Waffen, Dekorationen, Crafting Tipps - YouTube</title>
+  </bookmark>
+  <bookmark href="https://monsterhunterwilds.wiki.fextralife.com/Cooking" id="487">
+    <title>Cooking | Monster Hunter Wilds Wiki</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/search?client=firefox-b-d&amp;q=install+monster+hunter+wilds+mods#fpstate=ive&amp;vld=cid:9722edc7,vid:wCGIgdwXIYs,st:67" id="488">
+    <title>install monster hunter wilds mods - Google Suche</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=NiDFOaSqnAg" id="489">
+    <title>(41) BEST ENDGAME HBG BUILD, DAMAGE, &amp; PROGRESSION GUIDE | Monster Hunter Wilds Heavy Bowgun - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=CmF9auxi1bM" id="490">
+    <title>(49) BEST DPS BUILD FOR MONSTER HUNTER WILDS!✔️ OP MH Wilds Gearset ✔️ - YouTube</title>
+  </bookmark>
+</folder>
+<folder id="12">
+  <title>Tests</title>
+  <bookmark href="https://www.reizdarm-sos.de/collections/all" id="68">
+    <title>Produkte – ReizdarmSOS.de</title>
+  </bookmark>
+  <bookmark href="https://www.cerascreen.de/products/grosser-allergietest" id="69">
+    <title>Allergietest für Zuhause - IgE-Blutwert ermitteln | cerascreen</title>
+  </bookmark>
+  <bookmark href="https://www.medivere.de/shop/Mann/Darmgesundheit/" id="70">
+    <title>medivere:diagnostics | Darmgesundheit</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.deepl.com/translator" id="119">
+  <title>DeepL</title>
+</bookmark>
+<folder id="120">
+  <title>RasPi</title>
+  <bookmark href="https://www.arcadepunks.com/how-to-write-img-to-sd-card/" id="146">
+    <title>HOW TO: Write .img To SD Card - Arcade Punks</title>
+  </bookmark>
+  <bookmark href="https://www.arcadepunks.com/category/raspberry-pi-images/raspberry-pi-5-retro-gaming-images/" id="147">
+    <title>Raspberry Pi 5 - Arcade Punks</title>
+  </bookmark>
+  <bookmark href="https://controlpanel.newshosting.com/customer/index.php" id="148">
+    <title>Newshosting.com | Account Home - Newshosting.com</title>
+  </bookmark>
+  <bookmark href="https://www.rasppishop.de/" id="149">
+    <title>Raspberry Pi Boards und Zubehör kaufen - Rasppishop.de</title>
+  </bookmark>
+  <bookmark href="https://www.berrybase.de/" id="150">
+    <title>BerryBase der Maker Shop</title>
+  </bookmark>
+  <bookmark href="https://www.raspberrypi.com/products/" id="151">
+    <title>Buy a Raspberry Pi – Raspberry Pi</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=V-9fGxu5rFk" id="152">
+    <title>(4) Raspberry Pi 5 Einstieg: Das brauchst du wirklich, um los zu legen! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://wiki.batocera.org/basic_commands" id="153">
+    <title>basic_commands [Batocera.linux - Wiki]</title>
+  </bookmark>
+  <bookmark href="https://www.easeus.com/partition-master/restore-or-format-sd-card-to-full-capacity.html" id="154">
+    <title>Restore SD Card to Full Capacity | SD Card Not Showing Full Capacity - EaseUS</title>
+  </bookmark>
+  <bookmark href="https://www.drklipper.de/doku.php?id=sbcs:raspberry_pi:nvme_ssd_s_nutzen_pi_5" id="155">
+    <title>NVMe SSD&apos;s nutzen (Pi 5) [Dr. Klipper Wiki]</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/" id="175">
+    <title>Roms Megathread 4.0 HTML Edition 2021 : r/Roms</title>
+  </bookmark>
+  <bookmark href="https://r-roms.github.io/" id="176">
+    <title>/r/Roms Megathread</title>
+  </bookmark>
+  <bookmark href="https://archive.org/download/RetroarchSystemFiles/Retroarch-System/" id="177">
+    <title>RetroarchSystemFiles directory listing</title>
+  </bookmark>
+  <bookmark href="https://www.netflix.com/watch/70236415?trackId=155573558" id="178">
+    <title>Netflix</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.netflix.com/browse" id="121">
+  <title>Netflix</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/" id="174">
+  <title>YouTube</title>
+</bookmark>
+<bookmark href="https://www.bild.de/" id="179">
+  <title>Bild.de</title>
+</bookmark>
+<bookmark href="https://www.focus.de/" id="272">
+  <title>FOCUS</title>
+</bookmark>
+<bookmark href="http://pr0gramm.com/" id="273">
+  <title>pr0gramm</title>
+</bookmark>
+<bookmark href="https://www.amazon.de/" id="303">
+  <title>Amazon</title>
+</bookmark>
+<bookmark href="https://open.spotify.com/collection/playlists" id="304">
+  <title>Bibliothek – Playlists</title>
+</bookmark>
+<bookmark href="file:///C:/Users/klein/OneDrive/Studium/Web%20Engineering/Homework/index.html" id="366">
+  <title>FCB FANS!</title>
+</bookmark>
+<bookmark href="https://m.brettspielwelt.de/#requestPage:list:HeadPlay,uid:832725,select:play.Requests" id="367">
+  <title>BrettspielWelt</title>
+</bookmark>
+<bookmark href="https://www.google.com/search?client=firefox-b-d&amp;sxsrf=ALeKk03knU2k3kcyXYe6WBBJ1CmCCYwX9A%3A1612125078088&amp;ei=lhMXYIP5BMXB8gLAtqCIBw&amp;q=wetter&amp;oq=wetter&amp;gs_lcp=CgZwc3ktYWIQARgBMgwIIxAnEJ0CEEYQgAIyBAgjECcyBAgjECcyCAgAELEDEIMBMggIABCxAxCDATIICAAQsQMQgwEyCAgAELEDEIMBMggIABCxAxCDATIECAAQQzIICAAQsQMQgwE6BwgjELADECc6BwgAELADEENQ2TJY2TJg2lFoAXACeACAAc4CiAHOApIBAzMtMZgBAKABAaoBB2d3cy13aXrIAQrAAQE&amp;sclient=psy-ab" id="395">
+  <title>Wetter</title>
+</bookmark>
+<bookmark href="https://store.google.com/de/product/casemate_tpu_screen_protector_pixel_7_pro?hl=de" id="396">
+  <title>Case-Mate TPU Screen Protector for Pixel 7 Pro - Google Store</title>
+</bookmark>
+<folder id="436">
+  <title>Hochzeit</title>
+  <bookmark href="https://www.meine-hochzeitsdeko.de/gastgeschenk-liebesgeschichte-danke-2er-set" id="446">
+    <title>Gastgeschenk Hochzeit: Mini Glasröhrchen &quot;Danke&quot;</title>
+  </bookmark>
+  <bookmark href="https://www.hochzeitsportal24.de/ratgeber/gastgeschenk-personalisierte-mms/" id="447">
+    <title>Personalisierte M&amp;M&apos;S: Ein tolles Gastgeschenk - so einfach geht&apos;s!</title>
+  </bookmark>
+  <bookmark href="https://www.likoerfactory.de/Schoene-Erinnerung-Likoer-mit-Etikett-zur-Hochzeit/" id="448">
+    <title>Schöne Erinnerung: Likör mit Etikett zur Hochzeit | LikörFactory</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.de/gp/product/B078LHW38G/ref=ox_sc_act_title_1?smid=A2G6FAAK3NQTZC&amp;th=1" id="449">
+    <title>Manschin Laserdesign Cake Topper, Tortenstecker, Tortefigur Acryl, Tortenständer - individuell - Farbwahl - Etagere Hochzeit Hochzeitstorte: Amazon.de: Küche &amp; Haushalt</title>
+  </bookmark>
+  <bookmark href="https://foto-stommel-shop.rf-webworld.de/fotobox" id="450">
+    <title>Happy FotoBox mit Drucker mieten Odenwald | 199 € günstig, Foto Stommel - Der Profi rund ums Bild in Michelstadt (Odenwald)</title>
+  </bookmark>
+  <bookmark href="https://www.brautmagazin.de/de/braeutigam/show/editorialContent/formulierungsbeispiele-fuer-ihre-hochzeitsrede/" id="451">
+    <title>Formulierungsbeispiele für die Hochzeitsrede des Bräutigams</title>
+  </bookmark>
+  <bookmark href="https://www.hochzeit.net/hochzeitsreden/hochzeitsrede-braeutigam/" id="452">
+    <title>Hochzeitsrede vom Bräutigam</title>
+  </bookmark>
+  <bookmark href="https://www.hochzeitsportal24.de/ratgeber/hochzeitsreden-beispiele/" id="453">
+    <title>Hochzeitsrede - keine Panik! | Tipps &amp; Ideen für eine rundum gelungene Rede</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=lJPZLYfDK7Q" id="454">
+    <title>Die kirchliche Trauung von Stefan und Danni - YouTube</title>
+  </bookmark>
+</folder>
+<folder id="437">
+  <title>Cocktails</title>
+  <bookmark href="https://www.youtube.com/watch?v=RQPlSS65eHA" id="455">
+    <title>How to: Cocktails selber mixen - Der Pina Colada - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=3uiocmVEoBI&amp;list=PLtfi8KAlbyTSeR5taaUkfuZo4OW8MIioO&amp;index=2" id="456">
+    <title>How to: Cocktails selber mixen - Der Sex on the Beach - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=vZ1HA11tFiQ" id="457">
+    <title>How to: Cocktails selber mixen - Der Mai Tai - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=bbK9vBw9yiE" id="458">
+    <title>How to: Cocktails selber mixen - Der Swimming Pool - YouTube</title>
+  </bookmark>
+  <bookmark href="http://www.cocktail-lounge.net/barkeeper-3/#likoer" id="459">
+    <title>Barkeepers - Tipps und Tricks</title>
+  </bookmark>
+</folder>
+<folder id="482">
+  <title>Studium</title>
+  <bookmark href="https://www.wolframalpha.com/" id="491">
+    <title>Wolfram|Alpha</title>
+  </bookmark>
+  <bookmark href="https://www.geogebra.org/classic?lang=de" id="492">
+    <title>GeoGebra Classic</title>
+  </bookmark>
+  <bookmark href="https://flaci.com/autoedit?s=((2%7C(0%7C1)%2B2)(0%7C1)%2B%7C(2%7C(0%7C1)%2B2)(0%7C1)%2B3(4%7C5)%3F(0%7C1)%2B%7C(0%7C1)%2B)" id="493">
+    <title>FLACI</title>
+  </bookmark>
+  <bookmark href="https://www.netacad.com/" id="494">
+    <title>Cisco</title>
+  </bookmark>
+  <bookmark href="https://www.mathblog.dk/tools/infix-postfix-converter/" id="495">
+    <title>Infix / Postfix converter | MathBlog</title>
+  </bookmark>
+  <bookmark href="https://bildung365.de/index.htm?entityID=https%3A%2F%2Fbildung365.de%2Fshibboleth&amp;return=https%3A%2F%2Fbildung365.de%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253Ab761c93f4a3ce83f2dd2f61ad8a27422e764ec2bd61f7e080d23a8e19904bcc9" id="496">
+    <title>Bildung 365</title>
+  </bookmark>
+  <bookmark href="https://efeu.ddnss.de/nextcloud/login" id="497">
+    <title>Nextcloud</title>
+  </bookmark>
+  <folder id="498">
+    <title>Programmiersachen</title>
+    <bookmark href="https://www.youtube.com/watch?v=UTxhKZuVaG8" id="524">
+      <title>LoopBack REST API with Authentication - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=3AEkoU6llqc" id="525">
+      <title>How to Install Nodejs, NPM, Yarn on Ubuntu 18.04/19.04 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Q-BpqyOT3a8" id="526">
+      <title>What Is A RESTful API? Explanation of REST &amp; HTTP - YouTube</title>
+    </bookmark>
+    <bookmark href="https://de.mathworks.com/mwaccount/register/profiles/new?id=892ce8ea-3ed1-4c2c-93b3-755fd77e9a7d" id="527">
+      <title>Erstellen eines MathWorks-Accounts</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=WYb-Iblk7J0" id="528">
+      <title>Top Down Parsing - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=z0MimkXIvE8" id="529">
+      <title>How to write automated tests with Postman - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=7uDo_Du5d9g" id="530">
+      <title>Dem SPI-Bus auf&apos;s Bit geschaut (Teil 1) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://randomnerdtutorials.com/esp32-http-get-post-arduino/" id="531">
+      <title>ESP32 HTTP GET and HTTP POST with Arduino IDE | Random Nerd Tutorials</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://cloud-steiditi.goip.de/index.php/s/GJGPFyq7FSnKBA7" id="499">
+    <title>Dateien - cloud-steiditi</title>
+  </bookmark>
+  <folder id="500">
+    <title>WLAN</title>
+    <bookmark href="https://www.michael-wessel.de/blog/2018/06/25/wlan-ausleuchtung-mit-michael-wessel/" id="532">
+      <title>WLAN-Ausleuchtung mit michael wessel - michael wessel Blog</title>
+    </bookmark>
+    <bookmark href="https://www.netcor.de/blog/wlan-ausleuchtung-howto-survey-tipps-ap-on-a-stick-survey" id="533">
+      <title>NETCOR</title>
+    </bookmark>
+    <bookmark href="https://www.netcor.de/produkte/produktkatalog/ekahau-pro?action=show" id="534">
+      <title>NETCOR2</title>
+    </bookmark>
+    <bookmark href="https://www.cce-technik.de/leistungen/wlan-vermessung.html" id="535">
+      <title>WLAN-Vermessung</title>
+    </bookmark>
+    <bookmark href="https://www.euromicron.de/downloads/filemanager/veranstaltungen/wireless-consulting-gmbh-notwendigkeit-professionelle-funkplanung.pdf" id="536">
+      <title>Wireless.Consulting GmbH - wireless-consulting-gmbh-notwendigkeit-professionelle-funkplanung.pdf</title>
+    </bookmark>
+    <bookmark href="https://www.kma-online.de/themenwelten/medica/artikel/detail/aber-bitte-mit-kurve-a-32953" id="537">
+      <title>Elektronische Patientenakte: Aber bitte mit Kurve! - kma Online</title>
+    </bookmark>
+    <bookmark href="https://www.aerzteblatt.de/archiv/136891/Elektronische-Patientenkurve-Schluss-mit-Notizzetteln" id="538">
+      <title>Elektronische Patientenkurve: Schluss mit Notizzetteln</title>
+    </bookmark>
+    <bookmark href="https://support.randomsolutions.nl/827069-Best-dBm-Values-for-Wifi" id="539">
+      <title>Best dBm Values for Wifi</title>
+    </bookmark>
+    <bookmark href="https://www.philosophie.phil.uni-erlangen.de/qualitaet/arbeitsmittel/Arbeitsmittel2_Zitieren.pdf" id="540">
+      <title>Microsoft Word - 5 Arbeitsmittel4_Zitieren KORR 11-10.doc - Arbeitsmittel2_Zitieren.pdf</title>
+    </bookmark>
+    <folder id="541">
+      <title>Neuer Ordner</title>
+    </folder>
+    <bookmark href="https://www.ekahau.com/blog/wi-fi-site-surveys-passive-active-rtls/" id="632">
+      <title>Wi-Fi Site Surveys: Passive, Active, RTLS - Ekahau</title>
+    </bookmark>
+  </folder>
+  <folder id="542">
+    <title>Veeam Agent</title>
+    <bookmark href="http://www.redbooks.ibm.com/redbooks/pdfs/sg245416.pdf" id="560">
+      <title>IBM Tivoli Storage Manager Implementation Guide - sg245416.pdf</title>
+    </bookmark>
+    <bookmark href="https://helpcenter.veeam.com/docs/backup/agents/cluster_support.html?ver=100" id="561">
+      <title>Failover Cluster Support - Veeam Agent Management Guide</title>
+    </bookmark>
+    <bookmark href="https://helpcenter.veeam.com/docs/backup/agents/cluster_backup_and_restore.html?ver=100" id="562">
+      <title>Backup and Restore of Failover Clusters - Veeam Agent Management Guide</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=9c-vkrEpbGk" id="563">
+      <title>The Basics #05 - Snapshots - YouTube</title>
+    </bookmark>
+    <bookmark href="http://www.kjm1979.com/rdms-clusters-and-veeam/" id="564">
+      <title>RDMs, Clusters, and Veeam – Kevins Adventures in Life and IT</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/de-de/windows-server/storage/storage-spaces/understand-quorum" id="565">
+      <title>Grundlegendes zum Cluster- und Poolquorum | Microsoft Docs</title>
+    </bookmark>
+    <bookmark href="https://de.wikipedia.org/wiki/Gewichtetes_Votieren" id="566">
+      <title>Gewichtetes Votieren – Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://helpcenter.veeam.com/docs/backup/vsphere/network_mode.html?ver=110" id="567">
+      <title>Network Mode - Veeam Backup Guide for vSphere</title>
+    </bookmark>
+    <bookmark href="https://www.ambedded.com.tw/de/use-case/Veeam-Backup-und-Archiv-fr-die-Arbeit-Ceph/use-case-07.html" id="568">
+      <title>Veeam Backup und Archiv für die Arbeit Ceph | Software-Defined Storage Company | Ambedded</title>
+    </bookmark>
+    <bookmark href="https://www.thomas-krenn.com/de/wiki/Veeam_Replikation_in_einer_VMware_Umgebung_einrichten" id="569">
+      <title>Veeam Replikation in einer VMware Umgebung einrichten – Thomas-Krenn-Wiki</title>
+    </bookmark>
+    <bookmark href="https://www.pcwelt.de/tipps/Grosse-Testdatei-erzeugen-10701076.html" id="637">
+      <title>Große Testdatei erzeugen - PC-WELT</title>
+    </bookmark>
+    <bookmark href="https://helpcenter.veeam.com/docs/backup/vsphere/backup_methods.html?ver=110" id="638">
+      <title>Backup Methods - Veeam Backup Guide for vSphere</title>
+    </bookmark>
+    <bookmark href="https://www.matse.itc.rwth-aachen.de/dienste/public/show_document.php?id=19491" id="639">
+      <title>show_document.php</title>
+    </bookmark>
+    <bookmark href="https://www.uni-giessen.de/fbz/svc/hrz/svc/daten/sicherung/tsm" id="640">
+      <title>IBM Spectrum Protect ISP — Hochschulrechenzentrum (HRZ)</title>
+    </bookmark>
+    <bookmark href="https://www.uptime.de/de/services/backup-recovery/ibm-spectrum-protect.html" id="641">
+      <title>Backup &amp; Recovery mit IBM Spectrum Protect - Uptime IT</title>
+    </bookmark>
+    <bookmark href="https://helpcenter.veeam.com/docs/backup/vsphere/images/onsite_backup_repo_vmware.png" id="642">
+      <title>onsite_backup_repo_vmware.png (PNG-Grafik, 449 × 292 Pixel)</title>
+    </bookmark>
+    <bookmark href="https://www.business2community.com/cybersecurity/types-of-backup-understanding-full-differential-and-incremental-backup-02298785" id="643">
+      <title>Types of Backup: Understanding Full, Differential, and Incremental Backup - Business 2 Community</title>
+    </bookmark>
+    <bookmark href="https://original-network.com/step-by-step-guide-veeam-agent-for-windows/" id="644">
+      <title>Step by Step Guide Veeam Agent for Windows - Original Network | IT Blog</title>
+    </bookmark>
+    <bookmark href="https://www.itcentralstation.com/products/comparisons/ibm-spectrum-protect_vs_ibm-spectrum-protect-plus" id="645">
+      <title>IBM Spectrum Protect vs. IBM Spectrum Protect Plus Comparison | IT Central Station</title>
+    </bookmark>
+    <bookmark href="https://www.andrerinas.de/tutorials/windows-grosse-dummy-dateien-mit-der-kommandozeile-cmd-erstellen.html" id="646">
+      <title>Windows: Große Dummy Dateien mit der Kommandozeile (CMD) erstellen | André Rinas Webdesign/-development</title>
+    </bookmark>
+    <bookmark href="https://www.ip-insider.de/was-sind-esx-und-esxi-a-868695/" id="665">
+      <title>Was sind ESX und ESXi?</title>
+    </bookmark>
+  </folder>
+  <folder id="543">
+    <title>Studeinarbeit</title>
+    <bookmark href="https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Technologien_sicher_gestalten/Blockchain-Kryptowaehrung/blockchain-kryptowaehrung_node.html" id="570">
+      <title>BSI - Blockchain &amp; Kryptowährung</title>
+    </bookmark>
+    <bookmark href="https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2018-02-27-umsatzsteuerliche-behandlung-von-bitcoin-und-anderen-sog-virtuellen-waehrungen.html" id="571">
+      <title>Bundesfinanzministerium - Umsatzsteuerliche Behandlung von Bitcoin und anderen sog. virtuellen Währungen; EuGH-Urteil vom 22. Oktober 2015, C-264/14, Hedqvist</title>
+    </bookmark>
+    <bookmark href="https://de.overleaf.com/project/61e810dc180e26959417e1c0" id="572">
+      <title>Studienarbeit - Online LaTeX Editor Overleaf</title>
+    </bookmark>
+    <bookmark href="https://www.bafin.de/DE/Aufsicht/FinTech/VirtualCurrency/virtual_currency_node.html" id="573">
+      <title>BaFin - Virtuelle Währungen</title>
+    </bookmark>
+    <bookmark href="https://opus.bsz-bw.de/hsf/frontdoor/deliver/index/docId/412/file/Guenther-Kevin-Diplomarbeit.pdf" id="574">
+      <title>Microsoft Word - Diplomarbeit.docx - Guenther-Kevin-Diplomarbeit.pdf</title>
+    </bookmark>
+    <bookmark href="https://www.grin.com/document/435191" id="575">
+      <title>Kryptowährungen als Währungsersatz? - GRIN</title>
+    </bookmark>
+    <bookmark href="https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/10614/file/Bachelorarbeit_Alexander_Schiffni_2018.pdf" id="576">
+      <title>Bachelorarbeit_Alexander_Schiffni_2018 - Bachelorarbeit_Alexander_Schiffni_2018.pdf</title>
+    </bookmark>
+    <bookmark href="https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/11686/file/Bachelorarbeit_Felix_Munz.pdf" id="577">
+      <title>Bachelorarbeit_Felix_Munz.pdf</title>
+    </bookmark>
+    <bookmark href="https://bitcoin.org/de/download" id="578">
+      <title>Download - Bitcoin</title>
+    </bookmark>
+    <bookmark href="https://www.bitpanda.com/academy/de/lektionen/wie-funktioniert-eine-blockchain/" id="579">
+      <title>das</title>
+    </bookmark>
+    <bookmark href="https://www2.htw-dresden.de/~jvogt/abschlussarbeiten/Pfn%C3%BCr.pdf" id="647">
+      <title>Bachelorarbeit - Pfnür.pdf</title>
+    </bookmark>
+    <bookmark href="https://www.ig.com/de/bitcoin-handel/bitcoin-halving" id="648">
+      <title>Was ist Bitcoin Halving? Alles zum Bitcoin Halving | IG DE</title>
+    </bookmark>
+    <bookmark href="https://de.cointelegraph.com/news/1-in-a-billion-second-tiny-miner-solves-a-block" id="649">
+      <title>Unwahrscheinlich ist noch untertrieben: Zweiter Miner löst alleine Block</title>
+    </bookmark>
+    <bookmark href="https://www.overleaf.com/project/61e810dc180e26959417e1c0" id="650">
+      <title>Studienarbeit - Online LaTeX Editor Overleaf</title>
+    </bookmark>
+    <bookmark href="https://www.investopedia.com/terms/p/proof-activity-cryptocurrency.asp" id="651">
+      <title>Proof of Activity Definition</title>
+    </bookmark>
+    <bookmark href="https://www.grin.com/document/974124" id="652">
+      <title>Alternative Proof-of-Work-Konzepte in der Blockchain - GRIN</title>
+    </bookmark>
+    <bookmark href="https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp" id="653">
+      <title>Proof of Capacity (Cryptocurrency) Definition</title>
+    </bookmark>
+    <bookmark href="https://coinmarketcap.com/" id="654">
+      <title>Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap</title>
+    </bookmark>
+    <bookmark href="https://coinmarketcap.com/de/currencies/ethereum/" id="655">
+      <title>Ethereum (ETH) Kurs, Grafiken, Marktkapitalisierung | CoinMarketCap</title>
+    </bookmark>
+    <bookmark href="https://www.btc-echo.de/academy/bibliothek/ethereum-2/" id="656">
+      <title>Was ist Ethereum? | BTC-ACADEMY</title>
+    </bookmark>
+    <bookmark href="https://2miners.com/de/eth-network-hashrate" id="666">
+      <title>Ethereum ETH Netzwerk Hashrate Chart - 2Miners</title>
+    </bookmark>
+    <bookmark href="https://www.blocktrainer.de/blocktrainer-1x1/was-sind-asic-miner/" id="667">
+      <title>Blocktrainer 1×1: Was sind ASIC-Miner? - Blocktrainer</title>
+    </bookmark>
+    <bookmark href="https://www.golem.de/news/chia-waehrung-mining-farmen-decken-sich-mit-hdd-ssds-ein-2104-155858.html" id="668">
+      <title>Chia-Währung: Mining-Farmen decken sich mit HDD/SSDs ein - Golem.de</title>
+    </bookmark>
+    <bookmark href="https://dewiki.de/Lexikon/Proof_of_Space" id="669">
+      <title>DeWiki &gt; Proof of Space</title>
+    </bookmark>
+    <bookmark href="https://www.golem.de/news/kryptowaehrungen-lohnt-sich-der-einstieg-in-chia-2108-158417.html" id="670">
+      <title>Kryptowährungen: Lohnt sich der Einstieg in Chia? - Golem.de</title>
+    </bookmark>
+    <bookmark href="https://www.chia.net/assets/Chia-Business-Whitepaper-2021-02-09-v1.0.pdf" id="671">
+      <title>Chia-Business-Whitepaper-2021-01 - Chia-Business-Whitepaper-2021-02-09-v1.0.pdf</title>
+    </bookmark>
+    <bookmark href="https://coincierge.de/2021/chia-coin-xch-kurs-prognose-80-rueckgang-jetzt-einsteigen-oder-nie/" id="672">
+      <title>Chia Coin (XCH) Kurs-Prognose: 80% Rückgang! Jetzt einsteigen?</title>
+    </bookmark>
+    <bookmark href="https://www.slashcam.de/news/single/Speicherplatz-statt-GPU-Power--Neue-Cryptowaehrung--16523.html" id="673">
+      <title>Speicherplatz statt GPU-Power: Neue Cryptowährung Chia könnte zu HDD/SSD Knappheit führen</title>
+    </bookmark>
+    <bookmark href="https://www.basicthinking.de/blog/2021/06/11/konsesmodell-kryptowaehrung-erklaerung/" id="674">
+      <title>Konsensmodell bei Kryptowährungen: Was ist das eigentlich?</title>
+    </bookmark>
+    <bookmark href="https://coincierge.de/kryptowaehrungen-kaufen/chia-coin-kaufen/" id="675">
+      <title>Wie Chia Coin (XCH) kaufen 2022? Ja/Nein? ➡️ Prognose &amp; Kurs</title>
+    </bookmark>
+    <bookmark href="https://etherbasics.com/tutorials/ethereum-solo-mining-tutorial/" id="684">
+      <title>Ether Mining mit eigener Hardware | Wir zeigen Dir wie es funktioniert</title>
+    </bookmark>
+    <bookmark href="https://www.tomshardware.com/how-to/how-to-farm-chia-coin-the-new-storage-based-cryptocurrency" id="685">
+      <title>How to Farm Chia Coin, the New Storage-Based Cryptocurrency | Tom&apos;s Hardware</title>
+    </bookmark>
+    <bookmark href="https://ssd-tester.de/text_gute_ssd_fuers_chia_plotten.php" id="686">
+      <title>☀️ SSD Hardwareempfehlung fürs Chia Plotten</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=3Bvuh-EMEDY" id="687">
+      <title>Ledger Nano S Tutorial 2022 - VOLLE LEKTION!!! (Für Absolute Beginner) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://changelly.com/blog/ethereum-mining/" id="688">
+      <title>Best Ethereum Miner in 2022</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=G4zUfZZDPEU" id="689">
+      <title>RTX 2070 Super Mining HASHRATES! - YouTube</title>
+    </bookmark>
+    <bookmark href="https://chart-studio.plotly.com/organize/home/" id="690">
+      <title>Plotly | Make charts and dashboards online</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=hheHoBV9GXw" id="691">
+      <title>Dual Gigabit Ethernet NICs Carrier Board for Raspberry Pi CM4 with 4GB RAM/ 32GB eMMC - YouTube</title>
+    </bookmark>
+    <bookmark href="https://tex.stackexchange.com/questions/3730/using-harvard-referencing-style" id="692">
+      <title>bibliographies - Using Harvard referencing style - TeX - LaTeX Stack Exchange</title>
+    </bookmark>
+  </folder>
+  <folder id="544">
+    <title>Programmentwurf</title>
+    <bookmark href="https://refactoring.guru/smells/large-class" id="580">
+      <title>Large Class</title>
+    </bookmark>
+    <bookmark href="https://github.com/robinweisenburger/ASE_PicSim" id="581">
+      <title>robinweisenburger/ASE_PicSim</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/tisouz/15fcaff99d66a410ae67c21abc06155d" id="582">
+      <title>example dependency inversion</title>
+    </bookmark>
+    <bookmark href="https://github.com/NaschKadse/ASE_PicSim_Codacy" id="583">
+      <title>NaschKadse/ASE_PicSim_Codacy</title>
+    </bookmark>
+    <bookmark href="https://www.codetd.com/de/article/12071412" id="584">
+      <title>Pflichtkurs zur Softwareentwicklung: GRASP-Modell zur Verteilung der Verantwortung, das Sie kennen sollten - Code World</title>
+    </bookmark>
+    <bookmark href="https://www.jetbrains.com/help/clion/unit-testing-tutorial.html#boost-test-framework" id="585">
+      <title>Unit testing tutorial | CLion</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=c4V05fuG91E" id="586">
+      <title>Set up googletest in visual studio 2019 (#include header file) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=arLLcv0xI14" id="587">
+      <title>How to Add GoogleTest To Your C++ Project (C++ unit testing) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=dLB2aDasVTg" id="588">
+      <title>google mock c++ - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=gqe6eo2-9_Q" id="589">
+      <title>C++ testing with mocks is EASY and awesome! - YouTube</title>
+    </bookmark>
+    <bookmark href="http://localhost:1234/edit?id=94e8e290-9e2d-11ec-0d7a-afe07c537577" id="657">
+      <title>🎈 Remarkable notes.jl — Pluto.jl</title>
+    </bookmark>
+    <bookmark href="http://localhost:1234/edit?id=000725d0-9e30-11ec-1a20-d9bfddc79d0c" id="658">
+      <title>🎈 Groundbreaking magic.jl — Pluto.jl</title>
+    </bookmark>
+    <bookmark href="https://developer-blog.net/google-test-tutorial/" id="659">
+      <title>Google Test Tutorial - Developer-Blog</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/12252363/does-liskov-substitution-principle-also-apply-to-classes-implementing-interfaces" id="660">
+      <title>design patterns - Does Liskov Substitution Principle also apply to classes implementing interfaces? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.alpharithms.com/liskov-substitution-principle-lsp-solid-114908/" id="661">
+      <title>Liskov Substitution Principle (LSP): SOLID Design for Flexible Code - αlphαrithms</title>
+    </bookmark>
+  </folder>
+  <folder id="545">
+    <title>Lernen</title>
+    <bookmark href="https://www.youtube.com/watch?v=fJnyaqataJE" id="590">
+      <title>*** Faltung, konkretes Beispiel, Zuschauerfrage - YouTube</title>
+    </bookmark>
+    <bookmark href="https://thestarman.pcministry.com/asm/mbr/GPT.htm" id="591">
+      <title>The Windows 7, 8 &amp; 10 GPT &apos;Protective&apos; MBR and EFI Partitions</title>
+    </bookmark>
+    <bookmark href="https://www.jonrajewski.com/data/PartitionScheme/Partition_Table_Documentation_Compressed.pdf" id="592">
+      <title>Partition_Table_Documentation_Compressed - Partition_Table_Documentation_Compressed.pdf</title>
+    </bookmark>
+    <bookmark href="https://www.mathematik.uni-marburg.de/~thormae/lectures/mmk/mmk_6_1_ger_web.html#1" id="593">
+      <title>Bildverarbeitung - Multimediale Signalverarbeitung, Teil 6, Kapitel 1</title>
+    </bookmark>
+    <bookmark href="https://de-academic.com/dic.nsf/dewiki/828768" id="594">
+      <title>Laplace of Gaussian</title>
+    </bookmark>
+    <bookmark href="https://de.mathworks.com/help/matlab/ref/interpft.html" id="595">
+      <title>1-D interpolation (FFT method) - MATLAB interpft - MathWorks Deutschland</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=bAqU3-1FsPA" id="596">
+      <title>Classification Learning Using 1R - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.eit.hs-karlsruhe.de/flask-kontinuierliche-faltung-app/" id="597">
+      <title>App Kontinuierliche Faltung</title>
+    </bookmark>
+    <bookmark href="https://www.segmueller.de/moebel/wohnzimmer/wohnwaende-und-tv-lowboards/tv-lowboards" id="598">
+      <title>Lowboards - Schöne Unterschränke für Ihren TV | SEGMÜLLER</title>
+    </bookmark>
+  </folder>
+  <folder id="546">
+    <title>Event Camera</title>
+    <bookmark href="https://rpg.ifi.uzh.ch/research_dvs.html" id="599">
+      <title>Event Cameras, Event camera SLAM, Event-based Vision, Event-based Camera, Event SLAM</title>
+    </bookmark>
+    <bookmark href="https://ieeexplore.ieee.org/abstract/document/8094962/authors#authors" id="600">
+      <title>Event-Based, 6-DOF Camera Tracking from Photometric Depth Maps | IEEE Journals &amp; Magazine | IEEE Xplore</title>
+    </bookmark>
+    <bookmark href="https://arxiv.org/pdf/1510.01972.pdf" id="601">
+      <title>Event-based Camera Pose Tracking using a Generative Event Model - 1510.01972.pdf</title>
+    </bookmark>
+    <bookmark href="https://proceedings.neurips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf" id="602">
+      <title>NeurIPS-2020-learning-to-detect-objects-with-a-1-megapixel-event-camera-Paper.pdf</title>
+    </bookmark>
+    <bookmark href="https://medium.com/tangram-visions/event-cameras-where-are-they-now-293343754bfd" id="603">
+      <title>Event Cameras: Where Are They Now? | by Adam Rodnitzky | Tangram Visions | Medium</title>
+    </bookmark>
+    <bookmark href="https://plsm-project.com/dynamic-vision-sensor/" id="604">
+      <title>Dynamic Vision Sensor – public life – smart measurement</title>
+    </bookmark>
+    <bookmark href="https://inivation.com/products/customsolutions/videos/" id="605">
+      <title>DVS Videos – iniVation</title>
+    </bookmark>
+    <bookmark href="https://downloads.hindawi.com/journals/complexity/2021/8973482.pdf" id="606">
+      <title>8973482.pdf</title>
+    </bookmark>
+    <bookmark href="https://arxiv.org/pdf/1904.08405.pdf" id="607">
+      <title>Event-based Vision: A Survey - 1904.08405.pdf</title>
+    </bookmark>
+    <bookmark href="https://dl.gi.de/bitstream/handle/20.500.12116/19466/invited_paper_10.pdf?sequence=1&amp;isAllowed=y" id="608">
+      <title>invited_paper_10.pdf</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=LauQ6LWTkxM" id="662">
+      <title>Event-based, 6-DOF Pose Tracking for High-Speed Maneuvers using a Dynamic Vision Sensor - YouTube</title>
+    </bookmark>
+    <bookmark href="https://ichi.pro/de/uberdenken-wie-unsere-kameras-sehen-9175313770427" id="663">
+      <title>Überdenken, wie unsere Kameras sehen</title>
+    </bookmark>
+    <bookmark href="https://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Scaramuzza_and_Gallego.pdf" id="664">
+      <title>A Toolbox for Easily Calibrating Omnidirectional Cameras - CVPRW19_Scaramuzza_and_Gallego.pdf</title>
+    </bookmark>
+  </folder>
+  <folder id="547">
+    <title>1. Semester</title>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3199" id="609">
+      <title>Info1</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3196" id="610">
+      <title>Elektrotechnik</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3207" id="611">
+      <title>Mathe 1. Semester</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3143" id="612">
+      <title>Physik</title>
+    </bookmark>
+    <bookmark href="https://www.walter-fendt.de/html5/phde/index.html" id="613">
+      <title>Apps zur Physik (HTML5)</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3197" id="614">
+      <title>Programmieren in C</title>
+    </bookmark>
+  </folder>
+  <folder id="548">
+    <title>2. Semester</title>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3735" id="615">
+      <title>Info2</title>
+    </bookmark>
+    <bookmark href="https://dmackinnon1.github.io/inspectorCraig/" id="616">
+      <title>Inspector Craig</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/mod/folder/view.php?id=98427" id="617">
+      <title>Programmieren in C++</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3594" id="618">
+      <title>Elektronik</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3678" id="619">
+      <title>Mathe 2. Semester</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3795" id="620">
+      <title>Projektmanagement</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3693" id="621">
+      <title>TWA</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=3797" id="622">
+      <title>Funktionales Programmieren</title>
+    </bookmark>
+  </folder>
+  <folder id="549">
+    <title>3. Semester</title>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=4260" id="623">
+      <title>Info3</title>
+    </bookmark>
+    <bookmark href="https://bwsyncandshare.kit.edu/s/JCZgCiTnrZNpdHq" id="624">
+      <title>Dateien - bwSync&amp;Share</title>
+    </bookmark>
+    <bookmark href="https://www.tutorialspoint.com/de/compiler_design/compiler_design_top_down_parser.htm" id="625">
+      <title>Ãbersetzerbau Entwurf - Top-Down Parser - Tutorialspoint</title>
+    </bookmark>
+    <bookmark href="https://mikedevice.github.io/first-follow/" id="626">
+      <title>First Follow — Tool for calculating first, follow and predict sets</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=4261" id="627">
+      <title>Mathe 3. Semester</title>
+    </bookmark>
+    <bookmark href="http://178.238.227.46:3000/explorer/" id="628">
+      <title>LoopBack API Explorer</title>
+    </bookmark>
+    <bookmark href="https://www.ionos.de/digitalguide/websites/web-entwicklung/flutter-tutorial/" id="629">
+      <title>Google-Flutter-Tutorial | App-Programmierung mit Flutter lernen - IONOS</title>
+    </bookmark>
+    <bookmark href="https://dhbw-karlsruhe.myjetbrains.com/youtrack/projects" id="630">
+      <title>Projekte</title>
+    </bookmark>
+    <bookmark href="https://www.iai.kit.edu/javavl/" id="631">
+      <title>Java-Vorlesung | Home</title>
+    </bookmark>
+  </folder>
+  <folder id="676">
+    <title>4. Semester</title>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=4683" id="677">
+      <title>Kurs: KA-TINF19B3: Datenbanken</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=4302" id="678">
+      <title>Rechnertechnik</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=4337" id="679">
+      <title>Kommunikations- und Netztechnik I</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=4259" id="680">
+      <title>Mathe 4. Semester</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=5025" id="681">
+      <title>Betriebssysteme</title>
+    </bookmark>
+    <folder id="682">
+      <title>LazyPlants</title>
+      <bookmark href="https://kay.fasten-your-seat-belts.de/" id="695">
+        <title>Teaching at DHBW-Karlsruhe</title>
+      </bookmark>
+      <bookmark href="https://lazyplants.atlassian.net/jira/software/projects/LAZ/boards/1" id="696">
+        <title>LAZ Board – Agile-Board - Jira</title>
+      </bookmark>
+      <bookmark href="https://api.kie.one/explorer/" id="697">
+        <title>LoopBack API Explorer</title>
+      </bookmark>
+      <bookmark href="http://178.238.227.46:3002/explorer/#/" id="698">
+        <title>LoopBack 4</title>
+      </bookmark>
+      <bookmark href="https://lazysmartplants.wordpress.com/" id="699">
+        <title>Lazy Plants – lazy but smart</title>
+      </bookmark>
+      <bookmark href="https://github.com/jdk-21/lazyplants" id="700">
+        <title>Git - LazyPlants</title>
+      </bookmark>
+      <bookmark href="https://github.com/Kokoloris19097/LazyPlants.dokumentation" id="701">
+        <title>Doku - LazyPlants</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="693">
+    <title>5. Semester</title>
+    <bookmark href="https://www.iai.kit.edu/~clemens.duepmeier/vs-vorlesung.html" id="702">
+      <title>Wichtige Informationen zur Verteilte Systeme Vorlesung an der DHBW-Karlsruhe</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=5405" id="703">
+      <title>Kurs: KA-TINF19-5: Kommunikations- und Netztechnik III WAN</title>
+    </bookmark>
+    <bookmark href="https://www.gl.com/Presentations/HDLC-Protocol-Overview-Presentation.pdf" id="704">
+      <title>HDLC-Protocol-Overview-Presentation - HDLC-Protocol-Overview-Presentation.pdf</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=5317" id="705">
+      <title>Kurs: KA-TINF19-5: Web-Services</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=5347" id="706">
+      <title>Kurs: KA-TINF19-5 Komm&amp;Netz II Mobil&amp;WLAN</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=5ltNfaPz0nA" id="707">
+      <title>Configure PPP with CHAP for the Cisco CCNA - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=YgGqVpp-Mqg" id="708">
+      <title>PPPoE on Packet Tracer - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=QW-HocTt5rA" id="709">
+      <title>CCNA 200-125: PPPoE Configuration - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=oFOib8NpqB4" id="710">
+      <title>CCIE PPPoE - YouTube</title>
+    </bookmark>
+    <bookmark href="http://kaoshidaba.com/c/en/us/support/docs/routers/asr-1000-series-aggregation-services-routers/200311-Capture-PPPoE-packet-on-an-Ingress-Inter.pdf" id="711">
+      <title>Capture PPPoE packet on an Ingress Interface of ASR1000 - 200311-Capture-PPPoE-packet-on-an-Ingress-Inter.pdf</title>
+    </bookmark>
+    <bookmark href="https://www.routexp.com/2019/02/asa-configuration-pppoe-client.html" id="722">
+      <title>ASA Configuration : PPPoE client configuration and troubleshooting - Route XP Private Network Services</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=S2GpuWo8wjw" id="723">
+      <title>Feuerzangenbowle - YouTube</title>
+    </bookmark>
+    <bookmark href="https://course.ccs.neu.edu/cs5010f18/lecture5.html" id="724">
+      <title>Lecture 5: Union Data types</title>
+    </bookmark>
+    <bookmark href="https://portal.azure.com/?Microsoft_Azure_Education_correlationId=f390c40e778d4d769561d2943173266e&amp;Microsoft_Azure_Education_newA4E=true&amp;Microsoft_Azure_Education_asoSubGuid=b34ad21b-991e-4fa8-acee-d1a70eaf2b2c#@kleindominikweb.onmicrosoft.com/resource/subscriptions/b34ad21b-991e-4fa8-acee-d1a70eaf2b2c/resourceGroups/DHBWSAMPLEDELETENOW/providers/Microsoft.ServiceBus/namespaces/calculatorqueuewebservices/saskey" id="725">
+      <title>SAS-Richtlinie: RootManageSharedAccessKey - Microsoft Azure</title>
+    </bookmark>
+    <bookmark href="https://onedrive.live.com/?authkey=%21AOiNsmW7NfLNo38&amp;id=B21369425AA65150%21110348&amp;cid=B21369425AA65150" id="726">
+      <title>SE – OneDrive</title>
+    </bookmark>
+    <bookmark href="https://www.philipphauer.de/study/se/design-pattern.php" id="727">
+      <title>Design Pattern Katalog</title>
+    </bookmark>
+    <bookmark href="https://www.philipphauer.de/study/se/design-pattern/strategy.php" id="728">
+      <title>Das Strategy Design Pattern (Strategie Entwurfsmuster)</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=qw_JWYz8Sno" id="729">
+      <title>Swap the private data members of two classes - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.instructables.com/How-to-Do-the-Singleton-Design-Pattern-in-C/" id="730">
+      <title>How to Do the Singleton Design Pattern in C++ : 9 Steps - Instructables</title>
+    </bookmark>
+  </folder>
+  <folder id="694">
+    <title>6. Semester</title>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=6309" id="712">
+      <title>Kurs: KA-TINF19B3: Bildverarbeitung</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=5803" id="713">
+      <title>Kurs: KA-TINF19B3: Advanced Software Engineering</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=6147" id="714">
+      <title>Kurs: KA-TINF19B3: InfoSysteme / Geschäftsmodelle + Informationsvisualisierung + DataMining</title>
+    </bookmark>
+    <bookmark href="https://moodle.dhbw.de/course/view.php?id=6194" id="715">
+      <title>Kurs: KA-TINF19-6 Forensik</title>
+    </bookmark>
+    <bookmark href="https://dbmyadmin.frank-may.de/index.php?route=/&amp;route=%2F" id="716">
+      <title>dbmyadmin.frank-may.de / mariadb | phpMyAdmin 5.1.3</title>
+    </bookmark>
+    <bookmark href="https://dbapi.frank-may.de/" id="717">
+      <title>https://dbapi.frank-may.de/</title>
+    </bookmark>
+    <bookmark href="https://dbuser.frank-may.de/klein/" id="718">
+      <title>https://dbuser.frank-may.de/klein/</title>
+    </bookmark>
+    <bookmark href="https://dbuser.frank-may.de/klein/testat.html" id="719">
+      <title>Testat Dominik Klein</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=umzIFcf6IX0&amp;list=PLfk0Dfh13pBNTFz-RnOlgYIPv3UbJ3upf" id="720">
+      <title>01: ASR, Taxonomie von Sprache - YouTube</title>
+    </bookmark>
+    <bookmark href="https://elib.dlr.de/140187/1/BA_WEIT_2020-11-27_A.pdf" id="721">
+      <title>BA_WEIT_2020-11-27_A.pdf</title>
+    </bookmark>
+    <bookmark href="file:///C:/Users/klein/AppData/Local/Temp/I000817120Abschlussarbeit.pdf" id="731">
+      <title>I000817120Abschlussarbeit.pdf</title>
+    </bookmark>
+    <bookmark href="https://w3-mediapool.hm.edu/mediapool/media/fk05/fk05_lokal_1/fk05__trk/trk_bachelorarbeiten_1/Bachelorarbeit_Publikationsfassung_Grundner_Natascha.pdf" id="732">
+      <title>Bachelorarbeit - Bachelorarbeit_Publikationsfassung_Grundner_Natascha.pdf</title>
+    </bookmark>
+    <bookmark href="https://miro.com/login/" id="733">
+      <title>Anmelden | Miro</title>
+    </bookmark>
+    <bookmark href="https://curdt.home.hdm-stuttgart.de/PDF/Litfin.pdf" id="734">
+      <title>Litfin.pdf</title>
+    </bookmark>
+    <bookmark href="https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/12032/file/BACHELORARBEIT_Jonas_Rein.pdf" id="735">
+      <title>Bachelorarbeit_Vorlage_Fakultaet-Medien - BACHELORARBEIT_Jonas_Rein.pdf</title>
+    </bookmark>
+    <bookmark href="https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/9690/file/BA_Florian_Kr%c3%b6nert.pdf" id="736">
+      <title>BA_Florian_Krönert.pdf</title>
+    </bookmark>
+    <bookmark href="https://www.hoerhelfer.de/Richttungshoeren-raeumliches-Hoeren/" id="737">
+      <title>Richtungshören / räumliches Hören | hoerhelfer.de</title>
+    </bookmark>
+    <bookmark href="https://docplayer.org/25953590-Raeumliches-hoeren-zuordnung-der-raeumlichen-position-identifikation-auch-ausserhalb-des-sichtbereichs.html" id="738">
+      <title>Räumliches Hören. Zuordnung der räumlichen Position Identifikation auch außerhalb des Sichtbereichs - PDF Free Download</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=3c-iBn73dDE" id="739">
+      <title>Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://semesterstartbesprechung.de/apps/files/?dir=/&amp;fileid=45943" id="740">
+      <title>Dateien - Nextcloud</title>
+    </bookmark>
+    <bookmark href="https://bilder.buecher.de/zusatz/13/13727/13727002_lese_1.pdf" id="742">
+      <title>Microsoft Word - Kap_04_Epipolargeometrie.doc - 13727002_lese_1.pdf</title>
+    </bookmark>
+    <bookmark href="https://doc.traefik.io/traefik-enterprise/middlewares/jwt/" id="743">
+      <title>JWT Authentication - Traefik Enterprise Documentation</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/10PBVZclqQiR-SnPLBdkkvl8FKimjqWRXd7GCwtEiE_4/edit#gid=0" id="744">
+      <title>KA-TINF19B3 - Google Tabellen</title>
+    </bookmark>
+    <bookmark href="http://hugin.sourceforge.net/" id="745">
+      <title>Hugin - Panorama photo stitcher</title>
+    </bookmark>
+    <bookmark href="https://github.com/roland-KA/StatisticalPlotsWithJulia/blob/main/notebooks/DV-Basics-Gadfly.jl" id="746">
+      <title>StatisticalPlotsWithJulia/DV-Basics-Gadfly.jl at main · roland-KA/StatisticalPlotsWithJulia</title>
+    </bookmark>
+    <bookmark href="https://semesterstartbesprechung.de/login" id="747">
+      <title>Nextcloud</title>
+    </bookmark>
+    <bookmark href="https://onedrive.live.com/?authkey=%21AofMbfknTq1CuTQ&amp;id=B21369425AA65150%21112771&amp;cid=B21369425AA65150" id="748">
+      <title>Informationssysteme – OneDrive</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="483">
+  <title>DHBW</title>
+  <bookmark href="https://rapla.dhbw-karlsruhe.de/rapla?page=calendar&amp;user=vollmer&amp;file=tinf19b3" id="501">
+    <title>Vorlesungsplan</title>
+  </bookmark>
+  <bookmark href="https://moodle.dhbw.de/" id="502">
+    <title>Moodle</title>
+  </bookmark>
+  <bookmark href="https://moodle.dhbw.de/course/view.php?id=2917" id="503">
+    <title>Kursraum TINF19B3</title>
+  </bookmark>
+  <bookmark href="https://www.karlsruhe.dhbw.de/inf/studienverlauf-organisatorisches.html" id="504">
+    <title>DHBW FAQ</title>
+  </bookmark>
+  <bookmark href="https://dualis.dhbw.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=MLSSTART&amp;ARGUMENTS=-N818559652700824,-N000019," id="505">
+    <title>DUALIS</title>
+  </bookmark>
+  <bookmark href="https://www.karlsruhe.dhbw.de/fileadmin/user_upload/documents/downloads/Antraege-Vertraege-Merkblaetter/Eignungstest-fuer-beruflich-Qualifizierte-Musterklausur-TECHNIK.pdf" id="506">
+    <title>Eignungstest für beruflich Qualifizierte - Musterklausur Technik - Eignungstest-fuer-beruflich-Qualifizierte-Musterklausur-TECHNIK.pdf</title>
+  </bookmark>
+  <bookmark href="https://www.karlsruhe.dhbw.de/studium-lehre/bewerbung-zulassung/gebuehren-und-beitraege.html" id="507">
+    <title>DHBW Karlsruhe: Gebühren und Beiträge</title>
+  </bookmark>
+</folder>
+<folder id="484">
+  <title>Bachelorarbeit2</title>
+  <bookmark href="https://www.law.tuwien.ac.at/BA_Stamm_WS2020.pdf" id="508">
+    <title>Ransomware-Angriffe auf Einrichtungen der kritischen Infrastruktur - BA_Stamm_WS2020.pdf</title>
+  </bookmark>
+  <bookmark href="https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/10083/file/Bachelorarbeit.pdf" id="509">
+    <title>Bachelorarbeit.pdf</title>
+  </bookmark>
+  <bookmark href="https://de.overleaf.com/project" id="510">
+    <title>Deine Projekte - Overleaf, Online-LaTeX-Editor</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=hsDxcJhCRLI&amp;ab_channel=SecureRandom" id="511">
+    <title>How To Use The DD Command in Linux - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.hearthstonetopdecks.com/decks/undead-shadow-priest-16-legend-tonberrybleu-return-to-naxxramas/" id="512">
+    <title>Undead Shadow Priest - #16 Legend (TonberryBleu) - Return to Naxxramas - Hearthstone Top Decks</title>
+  </bookmark>
+  <bookmark href="https://docs.broadcom.com/doc/istr-21-2016-en" id="513">
+    <title>istr-21-2016-en.pdf</title>
+  </bookmark>
+  <bookmark href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Ransomware.pdf?__blob=publicationFile&amp;v=5" id="514">
+    <title>Ransomware Bedrohungslage - Ransomware.pdf</title>
+  </bookmark>
+  <bookmark href="https://de.darktrace.com/blog/9-stages-of-ransomware-how-ai-responds-at-every-stage" id="515">
+    <title>9 Phasen eines Ransomware-Angriffs: Wie die KI in den einzelnen Phasen reagiert - Darktrace Blog</title>
+  </bookmark>
+  <bookmark href="https://www.av-test.org/de/news/abwehr-von-ransomware-28-schutzloesungen-im-test-unter-windows-10/" id="516">
+    <title>Abwehr von Ransomware: 28 Schutzlösungen im Test unter Windows 10</title>
+  </bookmark>
+  <bookmark href="https://www.zscaler.com/solutions/security-transformation/cyberthreat-protection/ransomware-protection" id="517">
+    <title>Ransomware Protection with Zero Trust Architecture - Zscaler</title>
+  </bookmark>
+  <bookmark href="https://www.hornetsecurity.com/de/wissensdatenbank/ransomware/" id="550">
+    <title>Ransomware - Was ist ein Verschlüsselungstrojaner?</title>
+  </bookmark>
+  <bookmark href="https://www.eset.com/fileadmin/ESET/DACH/Docs/Produktmarketing/ESET_Whitepaper_Ransomware_WEB.pdf" id="551">
+    <title>ESET_Whitepaper_Ransomware_WEB.pdf</title>
+  </bookmark>
+  <bookmark href="https://www.pingidentity.com/de/resources/blog/post/ransomware-detection-and-prevention.html" id="552">
+    <title>Erkennung und Vorbeugung von Ransomware | Ping Identity</title>
+  </bookmark>
+  <bookmark href="https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Ransomware-Angriffe/Top-10-Ransomware-Massnahmen/top-10-ransomware-massnahmen.html" id="553">
+    <title>BSI - Ransomware Angriffe - Top 10 Ransomware-Maßnahmen</title>
+  </bookmark>
+  <bookmark href="https://www.heise.de/security/meldung/WannaCry-Gewaltiger-Schaden-geringer-Erloes-3713689.html" id="554">
+    <title>WannaCry: Gewaltiger Schaden, geringer Erlös | heise online</title>
+  </bookmark>
+  <bookmark href="https://bluexp.netapp.com/ci-sde-plp-cloud-secure-info-trial" id="555">
+    <title>Cloud Secure Ransomware | NetApp</title>
+  </bookmark>
+  <bookmark href="https://www.sap.com/germany/insights/what-is-machine-learning.html" id="556">
+    <title>Was ist maschinelles Lernen? | Definition, Arten, Beispiele | SAP Insights</title>
+  </bookmark>
+  <bookmark href="https://gheed.com/giveaways/g-PAVm" id="557">
+    <title>Bonjwa Oster-LAN ASUS ROG Gewinnspiel by bonjwa @ GHEED</title>
+  </bookmark>
+  <bookmark href="https://www.microsoft.com/en-us/windows/get-windows-11" id="558">
+    <title>How to Get Windows 11 for Your Compatible PC | Microsoft</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=WlH5HgLBug4&amp;ab_channel=TuhlTeimDE" id="559">
+    <title>Windows 11 Update ganz einfach und sicher von Windows 10 installieren - Assistent Tipps &amp; Tricks - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.xing.com/" id="633">
+    <title>XING - Finde den Job, der wirklich zu Dir passt</title>
+  </bookmark>
+  <bookmark href="https://www.lebenslauf.de/vorlagen/lebenslauf-modern/" id="634">
+    <title>Lebenslauf Vorlage modern - Profi-CV - Lebenslauf.de</title>
+  </bookmark>
+  <bookmark href="https://www.stepstone.de/profile" id="635">
+    <title>Bearbeite dein Profil</title>
+  </bookmark>
+  <bookmark href="https://career5.successfactors.eu/portalcareer?company=bahagag&amp;correlation_Id=59983390301&amp;lang=de_DE&amp;clientId=jobs2web&amp;socialApply=false&amp;career_ns=job_application&amp;site=&amp;career_job_req_id=3461&amp;jobPipeline=Email+Subscription&amp;isInternalUser=false&amp;_s.crb=2H5DyNFeAkrUnrkuIQ6TsSbssL%252fspFha7WBmRCfCV00%253d" id="636">
+    <title>Karrierechancen: Spezialist Storage und Backup (m/w/d)</title>
+  </bookmark>
+</folder>
+<folder id="485">
+  <title>Bachelorarbeit</title>
+  <bookmark href="https://de.overleaf.com/project/62eb939888a773dd23c58f1a" id="518">
+    <title>Bachelorarbeit - Online LaTeX Editor Overleaf</title>
+  </bookmark>
+  <bookmark href="http://digdok.bib.thm.de/volltexte/2019/5314/pdf/Bachelor_Thesis_Jatiani.pdf" id="519">
+    <title>Netzwerkfunktionen in einer SDN-Netzwerk-Simulation - Bachelor_Thesis_Jatiani.pdf</title>
+  </bookmark>
+  <bookmark href="https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/9318/file/BA-Benjamin_Hartmann-2017.pdf" id="520">
+    <title>BA-Benjamin_Hartmann-2017.pdf</title>
+  </bookmark>
+  <bookmark href="https://inet.haw-hamburg.de/thesis/completed/ba_kai_wienberg.pdf" id="521">
+    <title>ba_kai_wienberg.pdf</title>
+  </bookmark>
+  <bookmark href="https://datatracker.ietf.org/doc/pdf/rfc2328.pdf" id="522">
+    <title>rfc2328.pdf</title>
+  </bookmark>
+  <bookmark href="https://www.dataprise.com/it-glossary" id="523">
+    <title>IT Terms Glossary | Information Technology Definitions | Dataprise</title>
+  </bookmark>
+</folder>
+<bookmark href="https://10fastfingers.com/typing-test/german" id="683">
+  <title>Speedtest - Ermittel deine Tippgeschwindigkeit mit unserem Schnellschreibtest: Wie schnell kannst du tippen? Lerne schneller zu tippen! German - 10FastFingers.com</title>
+</bookmark>
+<folder id="741">
+  <title>Arbeit</title>
+  <bookmark href="https://www.youtube.com/watch?v=TjKbB02cYvk" id="749">
+    <title>10x PRODUKTIVER mit diesen 5 KI-Tools - YouTube</title>
+  </bookmark>
+</folder>
+<bookmark href="file:///C:/Users/klein/OneDrive/Web%20Engineering/Homework/index.html" id="750">
+  <title>FCB FANS!</title>
+</bookmark>
+<bookmark href="file:///C:/Users/klein/Downloads/GameStar%20Specials%20Nr.%206_2021.pdf" id="751">
+  <title>GameStar Specials Nr. 6_2021.pdf</title>
+</bookmark>
+<bookmark href="https://www.lifespaneurope.com/de-de/products/tc-lifespan-tc-fitness-arbeitsplatz-tc-laufband-unter-dem-schreibtisch-tc-tr5000-sc110-glowup" id="752">
+  <title> LifeSpan</title>
+</bookmark>
+</xbel>
