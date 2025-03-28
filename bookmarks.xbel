@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :752: for Floccus bookmark sync browser extension -->
+<!--- highestId :753: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://time.is/de/" id="1">
   <title>Time.is</title>
@@ -568,6 +568,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/shorts/yNnjiS-25y4" id="427">
     <title>(58) ⚠️ Ich habe über 1.000 KI Tools getestet: Das sind die 10 besten! 🦾#artificialintelligence #aitools - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.etsy.com/de/listing/1892427651/vitrinenrahmen-fur-f1-lego-speed?ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=speed+champions+frame&amp;ref=sr_gallery-1-2&amp;content_source=4cd690b105e7e08d4e69b85343d397386558709b%253A1892427651&amp;organic_search_click=1&amp;logging_key=4cd690b105e7e08d4e69b85343d397386558709b%3A1892427651" id="753">
+    <title>Vitrinenrahmen für F1 Lego Speed Champions Modelle 150cm x 40cm - Etsy UK</title>
   </bookmark>
 </folder>
 <folder id="10">
@@ -2257,6 +2260,6 @@
   <title>GameStar Specials Nr. 6_2021.pdf</title>
 </bookmark>
 <bookmark href="https://www.lifespaneurope.com/de-de/products/tc-lifespan-tc-fitness-arbeitsplatz-tc-laufband-unter-dem-schreibtisch-tc-tr5000-sc110-glowup" id="752">
-  <title> LifeSpan</title>
+  <title>LifeSpan</title>
 </bookmark>
 </xbel>
